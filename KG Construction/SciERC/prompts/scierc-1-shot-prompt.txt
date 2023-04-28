@@ -1,0 +1,600 @@
+1
+The list of predicates: ['FEATURE-OF', 'EVALUATE-FOR', 'COMPARE', 'HYPONYM-OF', 'USED-FOR', 'PART-OF', 'CONJUNCTION'] .
+What Subject-Predicate-Object triples are included in the following sentence? Please return the possible answers according to the list above. Require the answer only in the form: [subject, predicate, object]
+
+Example: 
+The given sentence is :  We show that various features based on the structure of email-threads can be used to improve upon lexical similarity of discourse segments for question-answer pairing . 
+Triples: [lexical similarity , FEATURE-OF , discourse segments]
+
+The given sentence is : Learned confidence measures gain increasing importance for outlier removal and quality improvement in stereo vision .
+Triples: 
+
+SciERC:
+[outlier removal, PART-OF, stereo vision]
+ h:{'name': 'outlier removal', 'pos': [7, 9]}, t: {'name': 'stereo vision', 'pos': [13, 15]}
+
+2
+The list of predicates: ['FEATURE-OF', 'EVALUATE-FOR', 'COMPARE', 'HYPONYM-OF', 'USED-FOR', 'PART-OF', 'CONJUNCTION'] .
+What Subject-Predicate-Object triples are included in the following sentence? Please return the possible answers according to the list above. Require the answer only in the form: [subject, predicate, object]
+
+Example: 
+The given sentence is :  We show that various features based on the structure of email-threads can be used to improve upon lexical similarity of discourse segments for question-answer pairing . 
+Triples: [lexical similarity , FEATURE-OF , discourse segments]
+
+The given sentence is : We test our algorithm on the detection task and the viewpoint classification task by using '' car '' category from both the Savarese et al. 2007 and PASCAL VOC 2006 datasets .
+Triples: 
+
+SciERC:
+[detection task, CONJUNCTION, viewpoint classification task]
+ h:{'name': 'detection task', 'pos': [6, 8]}, t: {'name': 'viewpoint classification task', 'pos': [10, 13]}
+
+3
+The list of predicates: ['FEATURE-OF', 'EVALUATE-FOR', 'COMPARE', 'HYPONYM-OF', 'USED-FOR', 'PART-OF', 'CONJUNCTION'] .
+What Subject-Predicate-Object triples are included in the following sentence? Please return the possible answers according to the list above. Require the answer only in the form: [subject, predicate, object]
+
+Example: 
+The given sentence is :  We show that various features based on the structure of email-threads can be used to improve upon lexical similarity of discourse segments for question-answer pairing . 
+Triples: [lexical similarity , FEATURE-OF , discourse segments]
+
+The given sentence is : This paper proposes a generic mathematical formalism for the combination of various structures : strings , trees , dags , graphs , and products of them .
+Triples: 
+
+SciERC:
+[trees, CONJUNCTION, dags]
+ h:{'name': 'trees', 'pos': [16, 17]}, t: {'name': 'dags', 'pos': [18, 19]}
+
+4
+The list of predicates: ['FEATURE-OF', 'EVALUATE-FOR', 'COMPARE', 'HYPONYM-OF', 'USED-FOR', 'PART-OF', 'CONJUNCTION'] .
+What Subject-Predicate-Object triples are included in the following sentence? Please return the possible answers according to the list above. Require the answer only in the form: [subject, predicate, object]
+
+Example: 
+The given sentence is :  We show that various features based on the structure of email-threads can be used to improve upon lexical similarity of discourse segments for question-answer pairing . 
+Triples: [lexical similarity , FEATURE-OF , discourse segments]
+
+The given sentence is : Experiments on synthetic and real data show that both our triangulation and LAGC algorithms outperform state-of-the-art solutions in accuracy and visual quality .
+Triples: 
+
+SciERC:
+[visual quality, EVALUATE-FOR, state-of-the-art solutions]
+ h:{'name': 'visual quality', 'pos': [20, 22]}, t: {'name': 'state-of-the-art solutions', 'pos': [15, 17]}
+
+5
+The list of predicates: ['FEATURE-OF', 'EVALUATE-FOR', 'COMPARE', 'HYPONYM-OF', 'USED-FOR', 'PART-OF', 'CONJUNCTION'] .
+What Subject-Predicate-Object triples are included in the following sentence? Please return the possible answers according to the list above. Require the answer only in the form: [subject, predicate, object]
+
+Example: 
+The given sentence is :  We show that various features based on the structure of email-threads can be used to improve upon lexical similarity of discourse segments for question-answer pairing . 
+Triples: [lexical similarity , FEATURE-OF , discourse segments]
+
+The given sentence is : These methods diier from previous work in the area in two ways : the use of an action model formalism which is better suited to the needs of a re-active agent , and successful implementation of noise-handling mechanisms .
+Triples: 
+
+SciERC:
+[action model formalism, USED-FOR, methods]
+ h:{'name': 'action model formalism', 'pos': [17, 20]}, t: {'name': 'methods', 'pos': [1, 2]}
+
+6
+The list of predicates: ['FEATURE-OF', 'EVALUATE-FOR', 'COMPARE', 'HYPONYM-OF', 'USED-FOR', 'PART-OF', 'CONJUNCTION'] .
+What Subject-Predicate-Object triples are included in the following sentence? Please return the possible answers according to the list above. Require the answer only in the form: [subject, predicate, object]
+
+Example: 
+The given sentence is :  We show that various features based on the structure of email-threads can be used to improve upon lexical similarity of discourse segments for question-answer pairing . 
+Triples: [lexical similarity , FEATURE-OF , discourse segments]
+
+The given sentence is : Here , we leverage a logistic stick-breaking representation and recent innovations in P¨®lya-gamma augmentation to reformu-late the multinomial distribution in terms of latent variables with jointly Gaussian likelihoods , enabling us to take advantage of a host of Bayesian inference techniques for Gaussian models with minimal overhead .
+Triples: 
+
+SciERC:
+[latent variables, PART-OF, multinomial distribution]
+ h:{'name': 'latent variables', 'pos': [22, 24]}, t: {'name': 'multinomial distribution', 'pos': [17, 19]}
+
+7
+The list of predicates: ['FEATURE-OF', 'EVALUATE-FOR', 'COMPARE', 'HYPONYM-OF', 'USED-FOR', 'PART-OF', 'CONJUNCTION'] .
+What Subject-Predicate-Object triples are included in the following sentence? Please return the possible answers according to the list above. Require the answer only in the form: [subject, predicate, object]
+
+Example: 
+The given sentence is :  We show that various features based on the structure of email-threads can be used to improve upon lexical similarity of discourse segments for question-answer pairing . 
+Triples: [lexical similarity , FEATURE-OF , discourse segments]
+
+The given sentence is : Here , we leverage a logistic stick-breaking representation and recent innovations in P¨®lya-gamma augmentation to reformu-late the multinomial distribution in terms of latent variables with jointly Gaussian likelihoods , enabling us to take advantage of a host of Bayesian inference techniques for Gaussian models with minimal overhead .
+Triples: 
+
+SciERC:
+[minimal overhead, FEATURE-OF, Gaussian models]
+ h:{'name': 'minimal overhead', 'pos': [45, 47]}, t: {'name': 'Gaussian models', 'pos': [42, 44]}
+
+8
+The list of predicates: ['FEATURE-OF', 'EVALUATE-FOR', 'COMPARE', 'HYPONYM-OF', 'USED-FOR', 'PART-OF', 'CONJUNCTION'] .
+What Subject-Predicate-Object triples are included in the following sentence? Please return the possible answers according to the list above. Require the answer only in the form: [subject, predicate, object]
+
+Example: 
+The given sentence is :  We show that various features based on the structure of email-threads can be used to improve upon lexical similarity of discourse segments for question-answer pairing . 
+Triples: [lexical similarity , FEATURE-OF , discourse segments]
+
+The given sentence is : Our system incorporates a linguistic parser/generator for LFG , a transfer component for parse reduction operating on packed parse forests , and a maximum-entropy model for stochastic output selection .
+Triples: 
+
+SciERC:
+[maximum-entropy model, USED-FOR, stochastic output selection]
+ h:{'name': 'maximum-entropy model', 'pos': [23, 25]}, t: {'name': 'stochastic output selection', 'pos': [26, 29]}
+
+9
+The list of predicates: ['FEATURE-OF', 'EVALUATE-FOR', 'COMPARE', 'HYPONYM-OF', 'USED-FOR', 'PART-OF', 'CONJUNCTION'] .
+What Subject-Predicate-Object triples are included in the following sentence? Please return the possible answers according to the list above. Require the answer only in the form: [subject, predicate, object]
+
+Example: 
+The given sentence is :  We show that various features based on the structure of email-threads can be used to improve upon lexical similarity of discourse segments for question-answer pairing . 
+Triples: [lexical similarity , FEATURE-OF , discourse segments]
+
+The given sentence is : Using this approach , we extract parallel data from large Chinese , Arabic , and English non-parallel newspaper corpora .
+Triples: 
+
+SciERC:
+[parallel data, PART-OF, Chinese , Arabic , and English non-parallel newspaper corpora]
+ h:{'name': 'parallel data', 'pos': [6, 8]}, t: {'name': 'Chinese , Arabic , and English non-parallel newspaper corpora', 'pos': [10, 19]}
+
+10
+The list of predicates: ['FEATURE-OF', 'EVALUATE-FOR', 'COMPARE', 'HYPONYM-OF', 'USED-FOR', 'PART-OF', 'CONJUNCTION'] .
+What Subject-Predicate-Object triples are included in the following sentence? Please return the possible answers according to the list above. Require the answer only in the form: [subject, predicate, object]
+
+Example: 
+The given sentence is :  We show that various features based on the structure of email-threads can be used to improve upon lexical similarity of discourse segments for question-answer pairing . 
+Triples: [lexical similarity , FEATURE-OF , discourse segments]
+
+The given sentence is : It is presented as a generalization of the recursive descent parser .
+Triples: 
+
+SciERC:
+[recursive descent parser, USED-FOR, It]
+ h:{'name': 'recursive descent parser', 'pos': [8, 11]}, t: {'name': 'It', 'pos': [0, 1]}
+
+11
+The list of predicates: ['FEATURE-OF', 'EVALUATE-FOR', 'COMPARE', 'HYPONYM-OF', 'USED-FOR', 'PART-OF', 'CONJUNCTION'] .
+What Subject-Predicate-Object triples are included in the following sentence? Please return the possible answers according to the list above. Require the answer only in the form: [subject, predicate, object]
+
+Example: 
+The given sentence is :  We show that various features based on the structure of email-threads can be used to improve upon lexical similarity of discourse segments for question-answer pairing . 
+Triples: [lexical similarity , FEATURE-OF , discourse segments]
+
+The given sentence is : Our system incorporates a linguistic parser/generator for LFG , a transfer component for parse reduction operating on packed parse forests , and a maximum-entropy model for stochastic output selection .
+Triples: 
+
+SciERC:
+[transfer component, PART-OF, system]
+ h:{'name': 'transfer component', 'pos': [10, 12]}, t: {'name': 'system', 'pos': [1, 2]}
+
+12
+The list of predicates: ['FEATURE-OF', 'EVALUATE-FOR', 'COMPARE', 'HYPONYM-OF', 'USED-FOR', 'PART-OF', 'CONJUNCTION'] .
+What Subject-Predicate-Object triples are included in the following sentence? Please return the possible answers according to the list above. Require the answer only in the form: [subject, predicate, object]
+
+Example: 
+The given sentence is :  We show that various features based on the structure of email-threads can be used to improve upon lexical similarity of discourse segments for question-answer pairing . 
+Triples: [lexical similarity , FEATURE-OF , discourse segments]
+
+The given sentence is : The task of machine translation -LRB- MT -RRB- evaluation is closely related to the task of sentence-level semantic equivalence classification .
+Triples: 
+
+SciERC:
+[machine translation -LRB- MT -RRB- evaluation, CONJUNCTION, sentence-level semantic equivalence classification]
+ h:{'name': 'machine translation -LRB- MT -RRB- evaluation', 'pos': [3, 9]}, t: {'name': 'sentence-level semantic equivalence classification', 'pos': [16, 20]}
+
+13
+The list of predicates: ['FEATURE-OF', 'EVALUATE-FOR', 'COMPARE', 'HYPONYM-OF', 'USED-FOR', 'PART-OF', 'CONJUNCTION'] .
+What Subject-Predicate-Object triples are included in the following sentence? Please return the possible answers according to the list above. Require the answer only in the form: [subject, predicate, object]
+
+Example: 
+The given sentence is :  We show that various features based on the structure of email-threads can be used to improve upon lexical similarity of discourse segments for question-answer pairing . 
+Triples: [lexical similarity , FEATURE-OF , discourse segments]
+
+The given sentence is : In this paper , we discuss language model adaptation methods given a word list and a raw corpus .
+Triples: 
+
+SciERC:
+[word list, USED-FOR, language model adaptation methods]
+ h:{'name': 'word list', 'pos': [12, 14]}, t: {'name': 'language model adaptation methods', 'pos': [6, 10]}
+
+14
+The list of predicates: ['FEATURE-OF', 'EVALUATE-FOR', 'COMPARE', 'HYPONYM-OF', 'USED-FOR', 'PART-OF', 'CONJUNCTION'] .
+What Subject-Predicate-Object triples are included in the following sentence? Please return the possible answers according to the list above. Require the answer only in the form: [subject, predicate, object]
+
+Example: 
+The given sentence is :  We show that various features based on the structure of email-threads can be used to improve upon lexical similarity of discourse segments for question-answer pairing . 
+Triples: [lexical similarity , FEATURE-OF , discourse segments]
+
+The given sentence is : Experiments on the PASCAL VOC 2006 dataset show an acceleration of more than 50 % by our method compared to standard cascade evaluation .
+Triples: 
+
+SciERC:
+[PASCAL VOC 2006 dataset, EVALUATE-FOR, cascade evaluation]
+ h:{'name': 'PASCAL VOC 2006 dataset', 'pos': [3, 7]}, t: {'name': 'cascade evaluation', 'pos': [21, 23]}
+
+15
+The list of predicates: ['FEATURE-OF', 'EVALUATE-FOR', 'COMPARE', 'HYPONYM-OF', 'USED-FOR', 'PART-OF', 'CONJUNCTION'] .
+What Subject-Predicate-Object triples are included in the following sentence? Please return the possible answers according to the list above. Require the answer only in the form: [subject, predicate, object]
+
+Example: 
+The given sentence is :  We show that various features based on the structure of email-threads can be used to improve upon lexical similarity of discourse segments for question-answer pairing . 
+Triples: [lexical similarity , FEATURE-OF , discourse segments]
+
+The given sentence is : Compared to the exhaustive procedure that thus far is the state-of-the-art for cascade evaluation , the proposed method requires fewer evaluations of the classifier functions , thereby speeding up the search .
+Triples: 
+
+SciERC:
+[method, USED-FOR, search]
+ h:{'name': 'method', 'pos': [17, 18]}, t: {'name': 'search', 'pos': [30, 31]}
+
+16
+The list of predicates: ['FEATURE-OF', 'EVALUATE-FOR', 'COMPARE', 'HYPONYM-OF', 'USED-FOR', 'PART-OF', 'CONJUNCTION'] .
+What Subject-Predicate-Object triples are included in the following sentence? Please return the possible answers according to the list above. Require the answer only in the form: [subject, predicate, object]
+
+Example: 
+The given sentence is :  We show that various features based on the structure of email-threads can be used to improve upon lexical similarity of discourse segments for question-answer pairing . 
+Triples: [lexical similarity , FEATURE-OF , discourse segments]
+
+The given sentence is : Furthermore , this paper presents a novel algorithm for the temporal maintenance of a background model to enhance the rendering of occlusions and reduce temporal artefacts -LRB- flicker -RRB- ; and a cost aggregation algorithm that acts directly on our three-dimensional matching cost space .
+Triples: 
+
+SciERC:
+[algorithm, USED-FOR, rendering of occlusions]
+ h:{'name': 'algorithm', 'pos': [7, 8]}, t: {'name': 'rendering of occlusions', 'pos': [19, 22]}
+
+17
+The list of predicates: ['FEATURE-OF', 'EVALUATE-FOR', 'COMPARE', 'HYPONYM-OF', 'USED-FOR', 'PART-OF', 'CONJUNCTION'] .
+What Subject-Predicate-Object triples are included in the following sentence? Please return the possible answers according to the list above. Require the answer only in the form: [subject, predicate, object]
+
+Example: 
+The given sentence is :  We show that various features based on the structure of email-threads can be used to improve upon lexical similarity of discourse segments for question-answer pairing . 
+Triples: [lexical similarity , FEATURE-OF , discourse segments]
+
+The given sentence is : Our numerical hybrid local and global mode-seeking tracker is validated on challenging airborne videos with heavy occlusion and large camera motions .
+Triples: 
+
+SciERC:
+[heavy occlusion, CONJUNCTION, camera motions]
+ h:{'name': 'heavy occlusion', 'pos': [15, 17]}, t: {'name': 'camera motions', 'pos': [19, 21]}
+
+18
+The list of predicates: ['FEATURE-OF', 'EVALUATE-FOR', 'COMPARE', 'HYPONYM-OF', 'USED-FOR', 'PART-OF', 'CONJUNCTION'] .
+What Subject-Predicate-Object triples are included in the following sentence? Please return the possible answers according to the list above. Require the answer only in the form: [subject, predicate, object]
+
+Example: 
+The given sentence is :  We show that various features based on the structure of email-threads can be used to improve upon lexical similarity of discourse segments for question-answer pairing . 
+Triples: [lexical similarity , FEATURE-OF , discourse segments]
+
+The given sentence is : We propose to incorporate a priori geometric constraints in a 3 -- D stereo reconstruction scheme to cope with the many cases where image information alone is not sufficient to accurately recover 3 -- D shape .
+Triples: 
+
+SciERC:
+[image information, USED-FOR, 3 -- D shape]
+ h:{'name': 'image information', 'pos': [23, 25]}, t: {'name': '3 -- D shape', 'pos': [32, 36]}
+
+19
+The list of predicates: ['FEATURE-OF', 'EVALUATE-FOR', 'COMPARE', 'HYPONYM-OF', 'USED-FOR', 'PART-OF', 'CONJUNCTION'] .
+What Subject-Predicate-Object triples are included in the following sentence? Please return the possible answers according to the list above. Require the answer only in the form: [subject, predicate, object]
+
+Example: 
+The given sentence is :  We show that various features based on the structure of email-threads can be used to improve upon lexical similarity of discourse segments for question-answer pairing . 
+Triples: [lexical similarity , FEATURE-OF , discourse segments]
+
+The given sentence is : It is demonstrated qualitatively and quantitatively on a dataset of scenes and is suitable for current work in unsupervised object discovery without top-down knowledge .
+Triples: 
+
+SciERC:
+[It, USED-FOR, unsupervised object discovery]
+ h:{'name': 'It', 'pos': [0, 1]}, t: {'name': 'unsupervised object discovery', 'pos': [18, 21]}
+
+20
+The list of predicates: ['FEATURE-OF', 'EVALUATE-FOR', 'COMPARE', 'HYPONYM-OF', 'USED-FOR', 'PART-OF', 'CONJUNCTION'] .
+What Subject-Predicate-Object triples are included in the following sentence? Please return the possible answers according to the list above. Require the answer only in the form: [subject, predicate, object]
+
+Example: 
+The given sentence is :  We show that various features based on the structure of email-threads can be used to improve upon lexical similarity of discourse segments for question-answer pairing . 
+Triples: [lexical similarity , FEATURE-OF , discourse segments]
+
+The given sentence is : Starting from a DP-based solution to the traveling salesman problem , we present a novel technique to restrict the possible word reordering between source and target language in order to achieve an efficient search algorithm .
+Triples: 
+
+SciERC:
+[technique, USED-FOR, search algorithm]
+ h:{'name': 'technique', 'pos': [15, 16]}, t: {'name': 'search algorithm', 'pos': [33, 35]}
+
+21
+The list of predicates: ['FEATURE-OF', 'EVALUATE-FOR', 'COMPARE', 'HYPONYM-OF', 'USED-FOR', 'PART-OF', 'CONJUNCTION'] .
+What Subject-Predicate-Object triples are included in the following sentence? Please return the possible answers according to the list above. Require the answer only in the form: [subject, predicate, object]
+
+Example: 
+The given sentence is :  We show that various features based on the structure of email-threads can be used to improve upon lexical similarity of discourse segments for question-answer pairing . 
+Triples: [lexical similarity , FEATURE-OF , discourse segments]
+
+The given sentence is : Topical blog post retrieval is the task of ranking blog posts with respect to their relevance for a given topic .
+Triples: 
+
+SciERC:
+[Topical blog post retrieval, HYPONYM-OF, ranking blog posts]
+ h:{'name': 'Topical blog post retrieval', 'pos': [0, 4]}, t: {'name': 'ranking blog posts', 'pos': [8, 11]}
+
+22
+The list of predicates: ['FEATURE-OF', 'EVALUATE-FOR', 'COMPARE', 'HYPONYM-OF', 'USED-FOR', 'PART-OF', 'CONJUNCTION'] .
+What Subject-Predicate-Object triples are included in the following sentence? Please return the possible answers according to the list above. Require the answer only in the form: [subject, predicate, object]
+
+Example: 
+The given sentence is :  We show that various features based on the structure of email-threads can be used to improve upon lexical similarity of discourse segments for question-answer pairing . 
+Triples: [lexical similarity , FEATURE-OF , discourse segments]
+
+The given sentence is : Here , we leverage a logistic stick-breaking representation and recent innovations in P¨®lya-gamma augmentation to reformu-late the multinomial distribution in terms of latent variables with jointly Gaussian likelihoods , enabling us to take advantage of a host of Bayesian inference techniques for Gaussian models with minimal overhead .
+Triples: 
+
+SciERC:
+[logistic stick-breaking representation, USED-FOR, multinomial distribution]
+ h:{'name': 'logistic stick-breaking representation', 'pos': [5, 8]}, t: {'name': 'multinomial distribution', 'pos': [17, 19]}
+
+23
+The list of predicates: ['FEATURE-OF', 'EVALUATE-FOR', 'COMPARE', 'HYPONYM-OF', 'USED-FOR', 'PART-OF', 'CONJUNCTION'] .
+What Subject-Predicate-Object triples are included in the following sentence? Please return the possible answers according to the list above. Require the answer only in the form: [subject, predicate, object]
+
+Example: 
+The given sentence is :  We show that various features based on the structure of email-threads can be used to improve upon lexical similarity of discourse segments for question-answer pairing . 
+Triples: [lexical similarity , FEATURE-OF , discourse segments]
+
+The given sentence is : We analyzed eye gaze , head nods and attentional focus in the context of a direction-giving task .
+Triples: 
+
+SciERC:
+[eye gaze, PART-OF, direction-giving task]
+ h:{'name': 'eye gaze', 'pos': [2, 4]}, t: {'name': 'direction-giving task', 'pos': [15, 17]}
+
+24
+The list of predicates: ['FEATURE-OF', 'EVALUATE-FOR', 'COMPARE', 'HYPONYM-OF', 'USED-FOR', 'PART-OF', 'CONJUNCTION'] .
+What Subject-Predicate-Object triples are included in the following sentence? Please return the possible answers according to the list above. Require the answer only in the form: [subject, predicate, object]
+
+Example: 
+The given sentence is :  We show that various features based on the structure of email-threads can be used to improve upon lexical similarity of discourse segments for question-answer pairing . 
+Triples: [lexical similarity , FEATURE-OF , discourse segments]
+
+The given sentence is : We examine the relationship between the two grammatical formalisms : Tree Adjoining Grammars and Head Grammars .
+Triples: 
+
+SciERC:
+[Head Grammars, HYPONYM-OF, grammatical formalisms]
+ h:{'name': 'Head Grammars', 'pos': [14, 16]}, t: {'name': 'grammatical formalisms', 'pos': [7, 9]}
+
+25
+The list of predicates: ['FEATURE-OF', 'EVALUATE-FOR', 'COMPARE', 'HYPONYM-OF', 'USED-FOR', 'PART-OF', 'CONJUNCTION'] .
+What Subject-Predicate-Object triples are included in the following sentence? Please return the possible answers according to the list above. Require the answer only in the form: [subject, predicate, object]
+
+Example: 
+The given sentence is :  We show that various features based on the structure of email-threads can be used to improve upon lexical similarity of discourse segments for question-answer pairing . 
+Triples: [lexical similarity , FEATURE-OF , discourse segments]
+
+The given sentence is : The objective of this work is to recognize faces using video sequences both for training and recognition input , in a realistic , unconstrained setup in which lighting , pose and user motion pattern have a wide variability and face images are of low resolution .
+Triples: 
+
+SciERC:
+[pose, CONJUNCTION, user motion pattern]
+ h:{'name': 'pose', 'pos': [29, 30]}, t: {'name': 'user motion pattern', 'pos': [31, 34]}
+
+26
+The list of predicates: ['FEATURE-OF', 'EVALUATE-FOR', 'COMPARE', 'HYPONYM-OF', 'USED-FOR', 'PART-OF', 'CONJUNCTION'] .
+What Subject-Predicate-Object triples are included in the following sentence? Please return the possible answers according to the list above. Require the answer only in the form: [subject, predicate, object]
+
+Example: 
+The given sentence is :  We show that various features based on the structure of email-threads can be used to improve upon lexical similarity of discourse segments for question-answer pairing . 
+Triples: [lexical similarity , FEATURE-OF , discourse segments]
+
+The given sentence is : In this paper , we present our work on the detection of question-answer pairs in an email conversation for the task of email summarization .
+Triples: 
+
+SciERC:
+[email conversation, USED-FOR, detection of question-answer pairs]
+ h:{'name': 'email conversation', 'pos': [16, 18]}, t: {'name': 'detection of question-answer pairs', 'pos': [10, 14]}
+
+27
+The list of predicates: ['FEATURE-OF', 'EVALUATE-FOR', 'COMPARE', 'HYPONYM-OF', 'USED-FOR', 'PART-OF', 'CONJUNCTION'] .
+What Subject-Predicate-Object triples are included in the following sentence? Please return the possible answers according to the list above. Require the answer only in the form: [subject, predicate, object]
+
+Example: 
+The given sentence is :  We show that various features based on the structure of email-threads can be used to improve upon lexical similarity of discourse segments for question-answer pairing . 
+Triples: [lexical similarity , FEATURE-OF , discourse segments]
+
+The given sentence is : Furthermore , this paper presents a novel algorithm for the temporal maintenance of a background model to enhance the rendering of occlusions and reduce temporal artefacts -LRB- flicker -RRB- ; and a cost aggregation algorithm that acts directly on our three-dimensional matching cost space .
+Triples: 
+
+SciERC:
+[algorithm, USED-FOR, temporal maintenance of a background model]
+ h:{'name': 'algorithm', 'pos': [7, 8]}, t: {'name': 'temporal maintenance of a background model', 'pos': [10, 16]}
+
+28
+The list of predicates: ['FEATURE-OF', 'EVALUATE-FOR', 'COMPARE', 'HYPONYM-OF', 'USED-FOR', 'PART-OF', 'CONJUNCTION'] .
+What Subject-Predicate-Object triples are included in the following sentence? Please return the possible answers according to the list above. Require the answer only in the form: [subject, predicate, object]
+
+Example: 
+The given sentence is :  We show that various features based on the structure of email-threads can be used to improve upon lexical similarity of discourse segments for question-answer pairing . 
+Triples: [lexical similarity , FEATURE-OF , discourse segments]
+
+The given sentence is : They improve the reconstruction results and enforce their consistency with a priori knowledge about object shape .
+Triples: 
+
+SciERC:
+[They, USED-FOR, reconstruction]
+ h:{'name': 'They', 'pos': [0, 1]}, t: {'name': 'reconstruction', 'pos': [3, 4]}
+
+29
+The list of predicates: ['FEATURE-OF', 'EVALUATE-FOR', 'COMPARE', 'HYPONYM-OF', 'USED-FOR', 'PART-OF', 'CONJUNCTION'] .
+What Subject-Predicate-Object triples are included in the following sentence? Please return the possible answers according to the list above. Require the answer only in the form: [subject, predicate, object]
+
+Example: 
+The given sentence is :  We show that various features based on the structure of email-threads can be used to improve upon lexical similarity of discourse segments for question-answer pairing . 
+Triples: [lexical similarity , FEATURE-OF , discourse segments]
+
+The given sentence is : MINPRAN , a new robust operator , nds good ts in data sets where more than 50 % of the points are outliers .
+Triples: 
+
+SciERC:
+[MINPRAN, HYPONYM-OF, robust operator]
+ h:{'name': 'MINPRAN', 'pos': [0, 1]}, t: {'name': 'robust operator', 'pos': [4, 6]}
+
+30
+The list of predicates: ['FEATURE-OF', 'EVALUATE-FOR', 'COMPARE', 'HYPONYM-OF', 'USED-FOR', 'PART-OF', 'CONJUNCTION'] .
+What Subject-Predicate-Object triples are included in the following sentence? Please return the possible answers according to the list above. Require the answer only in the form: [subject, predicate, object]
+
+Example: 
+The given sentence is :  We show that various features based on the structure of email-threads can be used to improve upon lexical similarity of discourse segments for question-answer pairing . 
+Triples: [lexical similarity , FEATURE-OF , discourse segments]
+
+The given sentence is : Recent progress in computer vision has been driven by high-capacity models trained on large datasets .
+Triples: 
+
+SciERC:
+[high-capacity models, USED-FOR, computer vision]
+ h:{'name': 'high-capacity models', 'pos': [9, 11]}, t: {'name': 'computer vision', 'pos': [3, 5]}
+
+31
+The list of predicates: ['FEATURE-OF', 'EVALUATE-FOR', 'COMPARE', 'HYPONYM-OF', 'USED-FOR', 'PART-OF', 'CONJUNCTION'] .
+What Subject-Predicate-Object triples are included in the following sentence? Please return the possible answers according to the list above. Require the answer only in the form: [subject, predicate, object]
+
+Example: 
+The given sentence is :  We show that various features based on the structure of email-threads can be used to improve upon lexical similarity of discourse segments for question-answer pairing . 
+Triples: [lexical similarity , FEATURE-OF , discourse segments]
+
+The given sentence is : Techniques for automatically training modules of a natural language generator have recently been proposed , but a fundamental concern is whether the quality of utterances produced with trainable components can compete with hand-crafted template-based or rule-based approaches .
+Triples: 
+
+SciERC:
+[trainable components, COMPARE, hand-crafted template-based or rule-based approaches]
+ h:{'name': 'trainable components', 'pos': [27, 29]}, t: {'name': 'hand-crafted template-based or rule-based approaches', 'pos': [32, 37]}
+
+32
+The list of predicates: ['FEATURE-OF', 'EVALUATE-FOR', 'COMPARE', 'HYPONYM-OF', 'USED-FOR', 'PART-OF', 'CONJUNCTION'] .
+What Subject-Predicate-Object triples are included in the following sentence? Please return the possible answers according to the list above. Require the answer only in the form: [subject, predicate, object]
+
+Example: 
+The given sentence is :  We show that various features based on the structure of email-threads can be used to improve upon lexical similarity of discourse segments for question-answer pairing . 
+Triples: [lexical similarity , FEATURE-OF , discourse segments]
+
+The given sentence is : To a large extent , these statistics reflect semantic constraints and thus are used to disambiguate anaphora references and syntactic ambiguities .
+Triples: 
+
+SciERC:
+[semantic constraints, USED-FOR, anaphora references]
+ h:{'name': 'semantic constraints', 'pos': [8, 10]}, t: {'name': 'anaphora references', 'pos': [16, 18]}
+
+33
+The list of predicates: ['FEATURE-OF', 'EVALUATE-FOR', 'COMPARE', 'HYPONYM-OF', 'USED-FOR', 'PART-OF', 'CONJUNCTION'] .
+What Subject-Predicate-Object triples are included in the following sentence? Please return the possible answers according to the list above. Require the answer only in the form: [subject, predicate, object]
+
+Example: 
+The given sentence is :  We show that various features based on the structure of email-threads can be used to improve upon lexical similarity of discourse segments for question-answer pairing . 
+Triples: [lexical similarity , FEATURE-OF , discourse segments]
+
+The given sentence is : This paper solves a specialized regression problem to obtain sampling probabilities for records in databases .
+Triples: 
+
+SciERC:
+[sampling probabilities, USED-FOR, records]
+ h:{'name': 'sampling probabilities', 'pos': [9, 11]}, t: {'name': 'records', 'pos': [12, 13]}
+
+34
+The list of predicates: ['FEATURE-OF', 'EVALUATE-FOR', 'COMPARE', 'HYPONYM-OF', 'USED-FOR', 'PART-OF', 'CONJUNCTION'] .
+What Subject-Predicate-Object triples are included in the following sentence? Please return the possible answers according to the list above. Require the answer only in the form: [subject, predicate, object]
+
+Example: 
+The given sentence is :  We show that various features based on the structure of email-threads can be used to improve upon lexical similarity of discourse segments for question-answer pairing . 
+Triples: [lexical similarity , FEATURE-OF , discourse segments]
+
+The given sentence is : We describe a fully automatic recognition system based on the proposed method and an extensive evaluation on 171 individuals and over 1300 video sequences with extreme illumination , pose and head motion variation .
+Triples: 
+
+SciERC:
+[illumination, FEATURE-OF, video sequences]
+ h:{'name': 'illumination', 'pos': [26, 27]}, t: {'name': 'video sequences', 'pos': [22, 24]}
+
+35
+The list of predicates: ['FEATURE-OF', 'EVALUATE-FOR', 'COMPARE', 'HYPONYM-OF', 'USED-FOR', 'PART-OF', 'CONJUNCTION'] .
+What Subject-Predicate-Object triples are included in the following sentence? Please return the possible answers according to the list above. Require the answer only in the form: [subject, predicate, object]
+
+Example: 
+The given sentence is :  We show that various features based on the structure of email-threads can be used to improve upon lexical similarity of discourse segments for question-answer pairing . 
+Triples: [lexical similarity , FEATURE-OF , discourse segments]
+
+The given sentence is : Based on these results , we present an ECA that uses verbal and nonverbal grounding acts to update dialogue state .
+Triples: 
+
+SciERC:
+[verbal and nonverbal grounding acts, USED-FOR, dialogue state]
+ h:{'name': 'verbal and nonverbal grounding acts', 'pos': [11, 16]}, t: {'name': 'dialogue state', 'pos': [18, 20]}
+
+36
+The list of predicates: ['FEATURE-OF', 'EVALUATE-FOR', 'COMPARE', 'HYPONYM-OF', 'USED-FOR', 'PART-OF', 'CONJUNCTION'] .
+What Subject-Predicate-Object triples are included in the following sentence? Please return the possible answers according to the list above. Require the answer only in the form: [subject, predicate, object]
+
+Example: 
+The given sentence is :  We show that various features based on the structure of email-threads can be used to improve upon lexical similarity of discourse segments for question-answer pairing . 
+Triples: [lexical similarity , FEATURE-OF , discourse segments]
+
+The given sentence is : Unlike existing interest point detectors , which measure pixel-wise differences in image intensity , our detectors incorporate histogram-based representations , and thus can find image regions that present a distinct distribution in the neighborhood .
+Triples: 
+
+SciERC:
+[pixel-wise differences in image intensity, EVALUATE-FOR, interest point detectors]
+ h:{'name': 'pixel-wise differences in image intensity', 'pos': [8, 13]}, t: {'name': 'interest point detectors', 'pos': [2, 5]}
+
+37
+The list of predicates: ['FEATURE-OF', 'EVALUATE-FOR', 'COMPARE', 'HYPONYM-OF', 'USED-FOR', 'PART-OF', 'CONJUNCTION'] .
+What Subject-Predicate-Object triples are included in the following sentence? Please return the possible answers according to the list above. Require the answer only in the form: [subject, predicate, object]
+
+Example: 
+The given sentence is :  We show that various features based on the structure of email-threads can be used to improve upon lexical similarity of discourse segments for question-answer pairing . 
+Triples: [lexical similarity , FEATURE-OF , discourse segments]
+
+The given sentence is : Our study reveals that the syntactic structure features embedded in a parse tree are very effective for relation extraction and these features can be well captured by the convolution tree kernel .
+Triples: 
+
+SciERC:
+[convolution tree kernel, USED-FOR, features]
+ h:{'name': 'convolution tree kernel', 'pos': [28, 31]}, t: {'name': 'features', 'pos': [21, 22]}
+
+38
+The list of predicates: ['FEATURE-OF', 'EVALUATE-FOR', 'COMPARE', 'HYPONYM-OF', 'USED-FOR', 'PART-OF', 'CONJUNCTION'] .
+What Subject-Predicate-Object triples are included in the following sentence? Please return the possible answers according to the list above. Require the answer only in the form: [subject, predicate, object]
+
+Example: 
+The given sentence is :  We show that various features based on the structure of email-threads can be used to improve upon lexical similarity of discourse segments for question-answer pairing . 
+Triples: [lexical similarity , FEATURE-OF , discourse segments]
+
+The given sentence is : A new tool for linguistic annotation of scfs in corpus data is also introduced which can considerably alleviate the process of obtaining training and test data for subcategorization acquisition .
+Triples: 
+
+SciERC:
+[training and test data, USED-FOR, subcategorization acquisition]
+ h:{'name': 'training and test data', 'pos': [22, 26]}, t: {'name': 'subcategorization acquisition', 'pos': [27, 29]}
+
+39
+The list of predicates: ['FEATURE-OF', 'EVALUATE-FOR', 'COMPARE', 'HYPONYM-OF', 'USED-FOR', 'PART-OF', 'CONJUNCTION'] .
+What Subject-Predicate-Object triples are included in the following sentence? Please return the possible answers according to the list above. Require the answer only in the form: [subject, predicate, object]
+
+Example: 
+The given sentence is :  We show that various features based on the structure of email-threads can be used to improve upon lexical similarity of discourse segments for question-answer pairing . 
+Triples: [lexical similarity , FEATURE-OF , discourse segments]
+
+The given sentence is : We propose a novel probabilistic framework for learning visual models of 3D object categories by combining appearance information and geometric constraints .
+Triples: 
+
+SciERC:
+[geometric constraints, USED-FOR, probabilistic framework]
+ h:{'name': 'geometric constraints', 'pos': [19, 21]}, t: {'name': 'probabilistic framework', 'pos': [4, 6]}
+
+40
+The list of predicates: ['FEATURE-OF', 'EVALUATE-FOR', 'COMPARE', 'HYPONYM-OF', 'USED-FOR', 'PART-OF', 'CONJUNCTION'] .
+What Subject-Predicate-Object triples are included in the following sentence? Please return the possible answers according to the list above. Require the answer only in the form: [subject, predicate, object]
+
+Example: 
+The given sentence is :  We show that various features based on the structure of email-threads can be used to improve upon lexical similarity of discourse segments for question-answer pairing . 
+Triples: [lexical similarity , FEATURE-OF , discourse segments]
+
+The given sentence is : Experimental results on our dataset and the public G3D dataset both demonstrate very promising performance of our scheme .
+Triples: 
+
+SciERC:
+[dataset, CONJUNCTION, G3D dataset]
+ h:{'name': 'dataset', 'pos': [4, 5]}, t: {'name': 'G3D dataset', 'pos': [8, 10]}
+

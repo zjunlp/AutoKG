@@ -24,7 +24,7 @@ The datasets that we used in our experiments are as follows:
   - [RE-TACRED](https://github.com/gstoica27/Re-TACRED)
   - [MAVEN](https://github.com/THU-KEG/MAVEN-dataset/tree/main)
   
-  You can download the dataset from the above address, and you can also find the data used in this experiment directly from the corresponding ***datas*** folder like [DuIE2.0](https://github.com/zjunlp/AutoKG/tree/4edd8ad698a1ad3b90abb34d79f299d0e839a28c/KG%20Construction/DuIE2.0/datas).
+  You can download the dataset from the above address, and you can also find the data used in this experiment directly from the corresponding ***"datas"*** folder like [DuIE2.0](https://github.com/zjunlp/AutoKG/tree/4edd8ad698a1ad3b90abb34d79f299d0e839a28c/KG%20Construction/DuIE2.0/datas).
 - KG Reasoning
   - FB15k-237
   - ATOMIC2020

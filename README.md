@@ -36,25 +36,25 @@ The expected structure of files is:
 AutoKG
  |-- KG Construction
  |    |-- DuIE2.0
- |    |    |-- datas              #dataset
- |    |    |-- prompts            #0-shot/1-shot prompts
+ |    |    |-- datas                #dataset
+ |    |    |-- prompts              #0-shot/1-shot prompts
  |    |    |-- duie_processor.py    #preprocess data
  |    |    |-- duie_prompts.py			#generate prompts
  |	  |--MAVEN
- |    |    |-- datas					      #dataset
- |    |    |-- prompts					    #0-shot/1-shot prompts
+ |    |    |-- datas                #dataset
+ |    |    |-- prompts              #0-shot/1-shot prompts
  |    |    |-- maven_processor.py		#preprocess data
  |    |    |-- maven_prompts.py			#generate prompts
  |    |--RE-TACRED
- |    |    |-- datas					          #dataset
- |    |    |-- prompts					        #0-shot/1-shot prompts
+ |    |    |-- datas                    #dataset
+ |    |    |-- prompts                  #0-shot/1-shot prompts
  |    |    |-- retacred_processor.py		#preprocess data
  |    |    |-- retacred_prompts.py			#generate prompts
  |    |--SciERC
- |    |    |-- datas					        #dataset
- |    |    |-- prompts					      #0-shot/1-shot prompts
- |    |    |-- scierc_processor.py		#preprocess data
- |    |    |-- scierc_prompts.py			#generate prompts
+ |    |    |-- datas                    #dataset
+ |    |    |-- prompts                  #0-shot/1-shot prompts
+ |    |    |-- scierc_processor.py		  #preprocess data
+ |    |    |-- scierc_prompts.py			  #generate prompts
  
 ```
 

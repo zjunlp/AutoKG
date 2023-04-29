@@ -1,4 +1,4 @@
-# Auto4KG
+# AutoKG
 
 ---
 

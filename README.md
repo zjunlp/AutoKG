@@ -36,9 +36,9 @@ The expected structure of files is:
 AutoKG
  |-- KG Construction
  |    |-- DuIE2.0
- |    |    |-- datas					       #dataset
- |    |    |-- prompts					    #0-shot/1-shot prompts
- |    |    |-- duie_processor.py		#preprocess data
+ |    |    |-- datas              #dataset
+ |    |    |-- prompts            #0-shot/1-shot prompts
+ |    |    |-- duie_processor.py    #preprocess data
  |    |    |-- duie_prompts.py			#generate prompts
  |	  |--MAVEN
  |    |    |-- datas					      #dataset

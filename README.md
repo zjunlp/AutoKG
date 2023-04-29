@@ -75,7 +75,7 @@ AutoKG
 
 ## 🕵️Virtual Knowledge Extraction
 
-The VINE dataset we built can be retrieved from the folder “***datas***”
+The VINE dataset we built can be retrieved from the folder “***Virtual Knowledge Extraction/datas***”
 
 Do the following code to generate prompts:
 

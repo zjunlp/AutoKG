@@ -19,10 +19,11 @@ The overview of our work. There are three main components: 1) ***Basic Evaluatio
 The datasets that we used in our experiments are as follows:
 
 - KG Construction
-  - DuIE2.0
-  - SciERC
-  - RE-TACRED
-  - MAVEN
+  - [DuIE2.0](https://www.luge.ai/#/luge/dataDetail?id=5)
+  - [SciERC](http://nlp.cs.washington.edu/sciIE/)
+  - [RE-TACRED](https://github.com/gstoica27/Re-TACRED)
+  - [MAVEN](https://github.com/THU-KEG/MAVEN-dataset/tree/main)
+  You can download the dataset from the above address, and you can also find the data used in this experiment directly from the corresponding ***datas*** folder
 - KG Reasoning
   - FB15k-237
   - ATOMIC2020

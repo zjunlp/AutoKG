@@ -8,7 +8,7 @@ Code and Data for the paper "[ChatGPT/GPT-4 for Knowledge Graph Construction and
 
 ## 🌄Overview
 
-<img src="figs/overview.png" alt="Overview" width="600px"; />
+<img src="figs/overview.png"  width="600px" />
 
 The overview of our work. There are three main components: 1) ***Basic Evaluation***: detailing our assessment of large models(text-davinci-003, ChatGPT, and GPT-4), in both zero-shot and one-shot settings, using performance data from fully supervised state-of-the-art models as benchmarks; 2) ***Virtual Knowledge Extraction***: an examination of large models' virtual knowledge capabilities on the constructed VINE dataset; and 3) ***AutoKG***: the proposal of utilizing multiple agents to facilitate the construction and reasoning of knowledge graphs.
 

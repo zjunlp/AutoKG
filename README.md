@@ -43,17 +43,17 @@ AutoKG
  |	  |--MAVEN
  |    |    |-- datas                #dataset
  |    |    |-- prompts              #0-shot/1-shot prompts
- |    |    |-- maven_processor.py		#preprocess data
+ |    |    |-- maven_processor.py   #preprocess data
  |    |    |-- maven_prompts.py     #generate prompts
  |    |--RE-TACRED
  |    |    |-- datas                    #dataset
  |    |    |-- prompts                  #0-shot/1-shot prompts
- |    |    |-- retacred_processor.py		#preprocess data
+ |    |    |-- retacred_processor.py    #preprocess data
  |    |    |-- retacred_prompts.py      #generate prompts
  |    |--SciERC
  |    |    |-- datas                    #dataset
  |    |    |-- prompts                  #0-shot/1-shot prompts
- |    |    |-- scierc_processor.py		  #preprocess data
+ |    |    |-- scierc_processor.py      #preprocess data
  |    |    |-- scierc_prompts.py        #generate prompts
  
 ```

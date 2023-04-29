@@ -15,6 +15,7 @@ The overview of our work. There are three main components: 1) ***Basic Evaluatio
 ## 🌟 Evaluation 
 
 ### Data Preprocess
+---
 
 The datasets that we used in our experiments are as follows:
 
@@ -59,7 +60,7 @@ AutoKG
 ```
 
 ### How to Run
-
+---
 - **KG Construction**(Use DuIE2.0 as an example)
 
   ```bash

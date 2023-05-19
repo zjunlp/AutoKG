@@ -1,0 +1,99 @@
+{
+    "actor_to_movie": [
+        {
+            "Question": "what does [Candace Cameron Bure] star in",
+            "Answer": [
+                "She Cried No"
+            ]
+        }
+    ],
+    "director_to_movie": [
+        {
+            "Question": "[Lamont Johnson] was the director of which films",
+            "Answer": [
+                "Lipstick",
+                "One on One",
+                "The Last American Hero",
+                "The Groundstar Conspiracy",
+                "That Certain Summer"
+            ]
+        }
+    ],
+    "movie_to_actor": [
+        {
+            "Question": "who acted in the movie [Gettysburg]",
+            "Answer": [
+                "Martin Sheen",
+                "Tom Berenger",
+                "Richard Jordan"
+            ]
+        }
+    ],
+    "movie_to_director": [
+        {
+            "Question": "who is listed as director for [The Unknown]",
+            "Answer": [
+                "Tod Browning"
+            ]
+        }
+    ],
+    "movie_to_genre": [
+        {
+            "Question": "what is the genre of [Silent Night]",
+            "Answer": [
+                "Horror"
+            ]
+        }
+    ],
+    "movie_to_language": [
+        {
+            "Question": "what is the primary language in [Back Door to Hell]",
+            "Answer": [
+                "Japanese"
+            ]
+        }
+    ],
+    "movie_to_tags": [
+        {
+            "Question": "which words describe [Cold Sweat]",
+            "Answer": [
+                "richard matheson"
+            ]
+        }
+    ],
+    "movie_to_writer": [
+        {
+            "Question": "who is the author of [Poseidon]",
+            "Answer": [
+                "Paul Gallico"
+            ]
+        }
+    ],
+    "movie_to_year": [
+        {
+            "Question": "what was the release date of the film [Alexander's Ragtime Band]",
+            "Answer": [
+                "1938"
+            ]
+        }
+    ],
+    "tag_to_movie": [
+        {
+            "Question": "what films can be described by [great]",
+            "Answer": [
+                "Schindler's List",
+                "Miller's Crossing"
+            ]
+        }
+    ],
+    "writer_to_movie": [
+        {
+            "Question": "what movies was [Niven Busch] the writer of",
+            "Answer": [
+                "The Westerner",
+                "In Old Chicago",
+                "Belle Starr"
+            ]
+        }
+    ]
+}

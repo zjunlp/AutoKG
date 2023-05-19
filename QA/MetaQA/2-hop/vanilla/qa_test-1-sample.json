@@ -1,0 +1,243 @@
+{
+    "actor_to_movie_to_director": [
+        {
+            "Question": "who are the directors of the movies acted by [Jay Baruchel]",
+            "Answer": [
+                "Michael Dowse",
+                "Evan Goldberg",
+                "Chaz Thorne",
+                "Jonathan Sobol",
+                "Dean DeBlois",
+                "Chris Sanders",
+                "Jon Turteltaub",
+                "Kyle Newman",
+                "David Ray",
+                "Zackary Adler",
+                "Jim Field Smith",
+                "Seth Rogen"
+            ]
+        }
+    ],
+    "director_to_movie_to_director": [
+        {
+            "Question": "the director [Pixote Hunt] co-directed movies with who",
+            "Answer": [
+                "Joe Johnston"
+            ]
+        }
+    ],
+    "director_to_movie_to_language": [
+        {
+            "Question": "the movies directed by [Claude Miller] were in which languages",
+            "Answer": [
+                "French"
+            ]
+        }
+    ],
+    "writer_to_movie_to_writer": [
+        {
+            "Question": "who are movie co-writers of [Blake T. Evans]",
+            "Answer": [
+                "David S. Ward",
+                "Phil Sears"
+            ]
+        }
+    ],
+    "actor_to_movie_to_genre": [
+        {
+            "Question": "what genres are the movies acted by [Carmelo G\u00f3mez] in",
+            "Answer": [
+                "Drama",
+                "Documentary"
+            ]
+        }
+    ],
+    "director_to_movie_to_genre": [
+        {
+            "Question": "what are the genres of the movies directed by [Diablo Cody]",
+            "Answer": [
+                "Drama",
+                "Romance",
+                "Comedy",
+                "Adventure"
+            ]
+        }
+    ],
+    "actor_to_movie_to_actor": [
+        {
+            "Question": "who co-starred with [David Wenham]",
+            "Answer": [
+                "Joseph Fiennes",
+                "Anthony LaPaglia",
+                "Anne Brochet",
+                "Gerard Butler",
+                "Harry Eden",
+                "Lena Headey",
+                "John Goodman",
+                "Susie Porter",
+                "Adrian Lester",
+                "Johanna Wokalek",
+                "Molly Parker"
+            ]
+        }
+    ],
+    "writer_to_movie_to_actor": [
+        {
+            "Question": "who are the actors of the screenwriter [William J. Cowen]",
+            "Answer": [
+                "Gladys George",
+                "Spencer Tracy",
+                "Franchot Tone"
+            ]
+        }
+    ],
+    "actor_to_movie_to_writer": [
+        {
+            "Question": "the movies starred by [Paula Raymond] were written by who",
+            "Answer": [
+                "Robert E. Kent"
+            ]
+        }
+    ],
+    "movie_to_director_to_movie": [
+        {
+            "Question": "which films share the same director of [Sleeping Dogs Lie]",
+            "Answer": [
+                "World's Greatest Dad",
+                "God Bless America",
+                "Willow Creek",
+                "Shakes the Clown"
+            ]
+        }
+    ],
+    "actor_to_movie_to_year": [
+        {
+            "Question": "what were the release dates of [Charlotte Gainsbourg] acted films",
+            "Answer": [
+                "1993",
+                "2006",
+                "2005",
+                "2009",
+                "2011",
+                "2010",
+                "2012"
+            ]
+        }
+    ],
+    "writer_to_movie_to_genre": [
+        {
+            "Question": "the films written by [Deon Taylor] were in which genres",
+            "Answer": [
+                "Horror"
+            ]
+        }
+    ],
+    "director_to_movie_to_actor": [
+        {
+            "Question": "who are the actors of the director [Mabrouk El Mechri]",
+            "Answer": [
+                "Bruce Willis",
+                "Henry Cavill",
+                "Sigourney Weaver"
+            ]
+        }
+    ],
+    "movie_to_actor_to_movie": [
+        {
+            "Question": "which movies have the same actor of [The Crowded Sky]",
+            "Answer": [
+                "Home Before Dark",
+                "The Ox-Bow Incident",
+                "Belle Starr",
+                "Fallen Angel",
+                "My Foolish Heart",
+                "A Walk in the Sun",
+                "Inferno",
+                "Madison Avenue",
+                "The Killer Is Loose",
+                "Wait Until Dark",
+                "The Frozen Dead",
+                "Where the Sidewalk Ends",
+                "Daisy Kenyon",
+                "Battle of the Bulge",
+                "State Fair",
+                "Sealed Cargo",
+                "Wing and a Prayer",
+                "The North Star",
+                "The Chapman Report",
+                "Beyond a Reasonable Doubt",
+                "Laura",
+                "The Best Years of Our Lives",
+                "While the City Sleeps",
+                "Crash Dive",
+                "Zero Hour!"
+            ]
+        }
+    ],
+    "writer_to_movie_to_year": [
+        {
+            "Question": "when were the films written by [Satoko Okudera] released",
+            "Answer": [
+                "2009",
+                "2006"
+            ]
+        }
+    ],
+    "director_to_movie_to_year": [
+        {
+            "Question": "what were the release years of the movies directed by [Fina Torres]",
+            "Answer": [
+                "2000"
+            ]
+        }
+    ],
+    "director_to_movie_to_writer": [
+        {
+            "Question": "which person wrote the movies directed by [Lou Adler]",
+            "Answer": [
+                "Tommy Chong",
+                "Cheech Marin"
+            ]
+        }
+    ],
+    "movie_to_writer_to_movie": [
+        {
+            "Question": "which movies share the screenwriter with [The Queen]",
+            "Answer": [
+                "Rush",
+                "Hereafter",
+                "The Last King of Scotland",
+                "The Special Relationship",
+                "The Other Boleyn Girl",
+                "Frost/Nixon",
+                "The Deal",
+                "Longford",
+                "The Damned United"
+            ]
+        }
+    ],
+    "writer_to_movie_to_director": [
+        {
+            "Question": "who are the directors of the movies written by [Vardis Fisher]",
+            "Answer": [
+                "Sydney Pollack"
+            ]
+        }
+    ],
+    "writer_to_movie_to_language": [
+        {
+            "Question": "what are the main languages in [Mark Linfield] written films",
+            "Answer": [
+                "Spanish"
+            ]
+        }
+    ],
+    "actor_to_movie_to_language": [
+        {
+            "Question": "the films acted by [Shabana Azmi] were in which languages",
+            "Answer": [
+                "Hindi"
+            ]
+        }
+    ]
+}

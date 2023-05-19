@@ -1,0 +1,190 @@
+[
+    {
+        "prompt": "Please answer the following question. Note that there may be more than one answer to the question. \nQuestion: [Aaron Lipstadt] was the director of which movies ?\nAnswer: Android|City Limits\nQuestion: the director of [Five Weeks in a Balloon] also directed which movies ?\nAnswer: The Swarm|The Poseidon Adventure|Voyage to the Bottom of the Sea|Beyond the Poseidon Adventure|The Lost World\nQuestion: what were the release years of the films that share directors with the film [Yor, the Hunter from the Future] ?\nAnswer: 1964|1965\nQuestion: [Lamont Johnson] was the director of which films ?\nAnswer: ",
+        "type": "director_to_movie",
+        "answer": [
+            "Lipstick",
+            "One on One",
+            "The Last American Hero",
+            "The Groundstar Conspiracy",
+            "That Certain Summer"
+        ]
+    },
+    {
+        "prompt": "Please answer the following question. Note that there may be more than one answer to the question. \nQuestion: [Aaron Lipstadt] was the director of which movies ?\nAnswer: Android|City Limits\nQuestion: the director of [Five Weeks in a Balloon] also directed which movies ?\nAnswer: The Swarm|The Poseidon Adventure|Voyage to the Bottom of the Sea|Beyond the Poseidon Adventure|The Lost World\nQuestion: what were the release years of the films that share directors with the film [Yor, the Hunter from the Future] ?\nAnswer: 1964|1965\nQuestion: who acted in the movie [Gettysburg] ?\nAnswer: ",
+        "type": "movie_to_actor",
+        "answer": [
+            "Martin Sheen",
+            "Tom Berenger",
+            "Richard Jordan"
+        ]
+    },
+    {
+        "prompt": "Please answer the following question. Note that there may be more than one answer to the question. \nQuestion: [Aaron Lipstadt] was the director of which movies ?\nAnswer: Android|City Limits\nQuestion: the director of [Five Weeks in a Balloon] also directed which movies ?\nAnswer: The Swarm|The Poseidon Adventure|Voyage to the Bottom of the Sea|Beyond the Poseidon Adventure|The Lost World\nQuestion: what were the release years of the films that share directors with the film [Yor, the Hunter from the Future] ?\nAnswer: 1964|1965\nQuestion: who is listed as director for [The Unknown] ?\nAnswer: ",
+        "type": "movie_to_director",
+        "answer": [
+            "Tod Browning"
+        ]
+    },
+    {
+        "prompt": "Please answer the following question. Note that there may be more than one answer to the question. \nQuestion: [Aaron Lipstadt] was the director of which movies ?\nAnswer: Android|City Limits\nQuestion: the director of [Five Weeks in a Balloon] also directed which movies ?\nAnswer: The Swarm|The Poseidon Adventure|Voyage to the Bottom of the Sea|Beyond the Poseidon Adventure|The Lost World\nQuestion: what were the release years of the films that share directors with the film [Yor, the Hunter from the Future] ?\nAnswer: 1964|1965\nQuestion: what is the genre of [Silent Night] ?\nAnswer: ",
+        "type": "movie_to_genre",
+        "answer": [
+            "Horror"
+        ]
+    },
+    {
+        "prompt": "Please answer the following question. Note that there may be more than one answer to the question. \nQuestion: [Aaron Lipstadt] was the director of which movies ?\nAnswer: Android|City Limits\nQuestion: the director of [Five Weeks in a Balloon] also directed which movies ?\nAnswer: The Swarm|The Poseidon Adventure|Voyage to the Bottom of the Sea|Beyond the Poseidon Adventure|The Lost World\nQuestion: what were the release years of the films that share directors with the film [Yor, the Hunter from the Future] ?\nAnswer: 1964|1965\nQuestion: what is the primary language in [Back Door to Hell] ?\nAnswer: ",
+        "type": "movie_to_language",
+        "answer": [
+            "Japanese"
+        ]
+    },
+    {
+        "prompt": "Please answer the following question. Note that there may be more than one answer to the question. \nQuestion: [Aaron Lipstadt] was the director of which movies ?\nAnswer: Android|City Limits\nQuestion: the director of [Five Weeks in a Balloon] also directed which movies ?\nAnswer: The Swarm|The Poseidon Adventure|Voyage to the Bottom of the Sea|Beyond the Poseidon Adventure|The Lost World\nQuestion: what were the release years of the films that share directors with the film [Yor, the Hunter from the Future] ?\nAnswer: 1964|1965\nQuestion: what was the release date of the film [Alexander's Ragtime Band] ?\nAnswer: ",
+        "type": "movie_to_year",
+        "answer": [
+            "1938"
+        ]
+    },
+    {
+        "prompt": "Please answer the following question. Note that there may be more than one answer to the question. \nQuestion: [Aaron Lipstadt] was the director of which movies ?\nAnswer: Android|City Limits\nQuestion: the director of [Five Weeks in a Balloon] also directed which movies ?\nAnswer: The Swarm|The Poseidon Adventure|Voyage to the Bottom of the Sea|Beyond the Poseidon Adventure|The Lost World\nQuestion: what were the release years of the films that share directors with the film [Yor, the Hunter from the Future] ?\nAnswer: 1964|1965\nQuestion: who are the directors of the movies acted by [Jay Baruchel] ?\nAnswer: ",
+        "type": "actor_to_movie_to_director",
+        "answer": [
+            "Michael Dowse",
+            "Evan Goldberg",
+            "Chaz Thorne",
+            "Jonathan Sobol",
+            "Dean DeBlois",
+            "Chris Sanders",
+            "Jon Turteltaub",
+            "Kyle Newman",
+            "David Ray",
+            "Zackary Adler",
+            "Jim Field Smith",
+            "Seth Rogen"
+        ]
+    },
+    {
+        "prompt": "Please answer the following question. Note that there may be more than one answer to the question. \nQuestion: [Aaron Lipstadt] was the director of which movies ?\nAnswer: Android|City Limits\nQuestion: the director of [Five Weeks in a Balloon] also directed which movies ?\nAnswer: The Swarm|The Poseidon Adventure|Voyage to the Bottom of the Sea|Beyond the Poseidon Adventure|The Lost World\nQuestion: what were the release years of the films that share directors with the film [Yor, the Hunter from the Future] ?\nAnswer: 1964|1965\nQuestion: the director [Pixote Hunt] co-directed movies with who ?\nAnswer: ",
+        "type": "director_to_movie_to_director",
+        "answer": [
+            "Joe Johnston"
+        ]
+    },
+    {
+        "prompt": "Please answer the following question. Note that there may be more than one answer to the question. \nQuestion: [Aaron Lipstadt] was the director of which movies ?\nAnswer: Android|City Limits\nQuestion: the director of [Five Weeks in a Balloon] also directed which movies ?\nAnswer: The Swarm|The Poseidon Adventure|Voyage to the Bottom of the Sea|Beyond the Poseidon Adventure|The Lost World\nQuestion: what were the release years of the films that share directors with the film [Yor, the Hunter from the Future] ?\nAnswer: 1964|1965\nQuestion: the movies directed by [Claude Miller] were in which languages ?\nAnswer: ",
+        "type": "director_to_movie_to_language",
+        "answer": [
+            "French"
+        ]
+    },
+    {
+        "prompt": "Please answer the following question. Note that there may be more than one answer to the question. \nQuestion: [Aaron Lipstadt] was the director of which movies ?\nAnswer: Android|City Limits\nQuestion: the director of [Five Weeks in a Balloon] also directed which movies ?\nAnswer: The Swarm|The Poseidon Adventure|Voyage to the Bottom of the Sea|Beyond the Poseidon Adventure|The Lost World\nQuestion: what were the release years of the films that share directors with the film [Yor, the Hunter from the Future] ?\nAnswer: 1964|1965\nQuestion: who are movie co-writers of [Blake T. Evans] ?\nAnswer: ",
+        "type": "writer_to_movie_to_writer",
+        "answer": [
+            "David S. Ward",
+            "Phil Sears"
+        ]
+    },
+    {
+        "prompt": "Please answer the following question. Note that there may be more than one answer to the question. \nQuestion: [Aaron Lipstadt] was the director of which movies ?\nAnswer: Android|City Limits\nQuestion: the director of [Five Weeks in a Balloon] also directed which movies ?\nAnswer: The Swarm|The Poseidon Adventure|Voyage to the Bottom of the Sea|Beyond the Poseidon Adventure|The Lost World\nQuestion: what were the release years of the films that share directors with the film [Yor, the Hunter from the Future] ?\nAnswer: 1964|1965\nQuestion: what are the genres of the movies directed by [Diablo Cody] ?\nAnswer: ",
+        "type": "director_to_movie_to_genre",
+        "answer": [
+            "Drama",
+            "Romance",
+            "Comedy",
+            "Adventure"
+        ]
+    },
+    {
+        "prompt": "Please answer the following question. Note that there may be more than one answer to the question. \nQuestion: [Aaron Lipstadt] was the director of which movies ?\nAnswer: Android|City Limits\nQuestion: the director of [Five Weeks in a Balloon] also directed which movies ?\nAnswer: The Swarm|The Poseidon Adventure|Voyage to the Bottom of the Sea|Beyond the Poseidon Adventure|The Lost World\nQuestion: what were the release years of the films that share directors with the film [Yor, the Hunter from the Future] ?\nAnswer: 1964|1965\nQuestion: which films share the same director of [Sleeping Dogs Lie] ?\nAnswer: ",
+        "type": "movie_to_director_to_movie",
+        "answer": [
+            "World's Greatest Dad",
+            "God Bless America",
+            "Willow Creek",
+            "Shakes the Clown"
+        ]
+    },
+    {
+        "prompt": "Please answer the following question. Note that there may be more than one answer to the question. \nQuestion: [Aaron Lipstadt] was the director of which movies ?\nAnswer: Android|City Limits\nQuestion: the director of [Five Weeks in a Balloon] also directed which movies ?\nAnswer: The Swarm|The Poseidon Adventure|Voyage to the Bottom of the Sea|Beyond the Poseidon Adventure|The Lost World\nQuestion: what were the release years of the films that share directors with the film [Yor, the Hunter from the Future] ?\nAnswer: 1964|1965\nQuestion: what were the release dates of [Charlotte Gainsbourg] acted films ?\nAnswer: ",
+        "type": "actor_to_movie_to_year",
+        "answer": [
+            "1993",
+            "2006",
+            "2005",
+            "2009",
+            "2011",
+            "2010",
+            "2012"
+        ]
+    },
+    {
+        "prompt": "Please answer the following question. Note that there may be more than one answer to the question. \nQuestion: [Aaron Lipstadt] was the director of which movies ?\nAnswer: Android|City Limits\nQuestion: the director of [Five Weeks in a Balloon] also directed which movies ?\nAnswer: The Swarm|The Poseidon Adventure|Voyage to the Bottom of the Sea|Beyond the Poseidon Adventure|The Lost World\nQuestion: what were the release years of the films that share directors with the film [Yor, the Hunter from the Future] ?\nAnswer: 1964|1965\nQuestion: the films written by [Deon Taylor] were in which genres ?\nAnswer: ",
+        "type": "writer_to_movie_to_genre",
+        "answer": [
+            "Horror"
+        ]
+    },
+    {
+        "prompt": "Please answer the following question. Note that there may be more than one answer to the question. \nQuestion: [Aaron Lipstadt] was the director of which movies ?\nAnswer: Android|City Limits\nQuestion: the director of [Five Weeks in a Balloon] also directed which movies ?\nAnswer: The Swarm|The Poseidon Adventure|Voyage to the Bottom of the Sea|Beyond the Poseidon Adventure|The Lost World\nQuestion: what were the release years of the films that share directors with the film [Yor, the Hunter from the Future] ?\nAnswer: 1964|1965\nQuestion: what languages are the movies that share directors with [Who's That Knocking at My Door] in ?\nAnswer: ",
+        "type": "movie_to_director_to_movie_to_language",
+        "answer": [
+            "Irish",
+            "Tibetan",
+            "Italian"
+        ]
+    },
+    {
+        "prompt": "Please answer the following question. Note that there may be more than one answer to the question. \nQuestion: [Aaron Lipstadt] was the director of which movies ?\nAnswer: Android|City Limits\nQuestion: the director of [Five Weeks in a Balloon] also directed which movies ?\nAnswer: The Swarm|The Poseidon Adventure|Voyage to the Bottom of the Sea|Beyond the Poseidon Adventure|The Lost World\nQuestion: what were the release years of the films that share directors with the film [Yor, the Hunter from the Future] ?\nAnswer: 1964|1965\nQuestion: the films that share actors with the film [Nickelodeon] were in which languages ?\nAnswer: ",
+        "type": "movie_to_actor_to_movie_to_language",
+        "answer": [
+            "French",
+            "Spanish"
+        ]
+    },
+    {
+        "prompt": "Please answer the following question. Note that there may be more than one answer to the question. \nQuestion: [Aaron Lipstadt] was the director of which movies ?\nAnswer: Android|City Limits\nQuestion: the director of [Five Weeks in a Balloon] also directed which movies ?\nAnswer: The Swarm|The Poseidon Adventure|Voyage to the Bottom of the Sea|Beyond the Poseidon Adventure|The Lost World\nQuestion: what were the release years of the films that share directors with the film [Yor, the Hunter from the Future] ?\nAnswer: 1964|1965\nQuestion: when did the films written by [A Gathering of Old Men] writers release ?\nAnswer: ",
+        "type": "movie_to_writer_to_movie_to_year",
+        "answer": [
+            "1999",
+            "1974"
+        ]
+    },
+    {
+        "prompt": "Please answer the following question. Note that there may be more than one answer to the question. \nQuestion: [Aaron Lipstadt] was the director of which movies ?\nAnswer: Android|City Limits\nQuestion: the director of [Five Weeks in a Balloon] also directed which movies ?\nAnswer: The Swarm|The Poseidon Adventure|Voyage to the Bottom of the Sea|Beyond the Poseidon Adventure|The Lost World\nQuestion: what were the release years of the films that share directors with the film [Yor, the Hunter from the Future] ?\nAnswer: 1964|1965\nQuestion: what genres are the movies directed by the [16 Blocks] director ?\nAnswer: ",
+        "type": "movie_to_director_to_movie_to_genre",
+        "answer": [
+            "Horror",
+            "Drama",
+            "Fantasy",
+            "Adventure",
+            "Action",
+            "Comedy",
+            "Thriller"
+        ]
+    },
+    {
+        "prompt": "Please answer the following question. Note that there may be more than one answer to the question. \nQuestion: [Aaron Lipstadt] was the director of which movies ?\nAnswer: Android|City Limits\nQuestion: the director of [Five Weeks in a Balloon] also directed which movies ?\nAnswer: The Swarm|The Poseidon Adventure|Voyage to the Bottom of the Sea|Beyond the Poseidon Adventure|The Lost World\nQuestion: what were the release years of the films that share directors with the film [Yor, the Hunter from the Future] ?\nAnswer: 1964|1965\nQuestion: who are the directors of the films written by the writer of [Jailhouse Rock] ?\nAnswer: ",
+        "type": "movie_to_writer_to_movie_to_director",
+        "answer": [
+            "David Butler",
+            "Marlon Brando",
+            "Harmon Jones",
+            "Stanley Kramer",
+            "John Frankenheimer",
+            "Martin Ritt"
+        ]
+    },
+    {
+        "prompt": "Please answer the following question. Note that there may be more than one answer to the question. \nQuestion: [Aaron Lipstadt] was the director of which movies ?\nAnswer: Android|City Limits\nQuestion: the director of [Five Weeks in a Balloon] also directed which movies ?\nAnswer: The Swarm|The Poseidon Adventure|Voyage to the Bottom of the Sea|Beyond the Poseidon Adventure|The Lost World\nQuestion: what were the release years of the films that share directors with the film [Yor, the Hunter from the Future] ?\nAnswer: 1964|1965\nQuestion: the movies that share writers with the movie [Pocketful of Miracles] were in which genres ?\nAnswer: ",
+        "type": "movie_to_writer_to_movie_to_genre",
+        "answer": [
+            "Drama",
+            "Fantasy",
+            "Comedy",
+            "Musical"
+        ]
+    }
+]

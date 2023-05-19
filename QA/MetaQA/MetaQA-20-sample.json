@@ -1,0 +1,210 @@
+{
+    "director_to_movie": [
+        {
+            "Question": "[Lamont Johnson] was the director of which films",
+            "Answer": [
+                "Lipstick",
+                "One on One",
+                "The Last American Hero",
+                "The Groundstar Conspiracy",
+                "That Certain Summer"
+            ]
+        }
+    ],
+    "movie_to_actor": [
+        {
+            "Question": "who acted in the movie [Gettysburg]",
+            "Answer": [
+                "Martin Sheen",
+                "Tom Berenger",
+                "Richard Jordan"
+            ]
+        }
+    ],
+    "movie_to_director": [
+        {
+            "Question": "who is listed as director for [The Unknown]",
+            "Answer": [
+                "Tod Browning"
+            ]
+        }
+    ],
+    "movie_to_genre": [
+        {
+            "Question": "what is the genre of [Silent Night]",
+            "Answer": [
+                "Horror"
+            ]
+        }
+    ],
+    "movie_to_language": [
+        {
+            "Question": "what is the primary language in [Back Door to Hell]",
+            "Answer": [
+                "Japanese"
+            ]
+        }
+    ],
+    "movie_to_year": [
+        {
+            "Question": "what was the release date of the film [Alexander's Ragtime Band]",
+            "Answer": [
+                "1938"
+            ]
+        }
+    ],
+    "actor_to_movie_to_director": [
+        {
+            "Question": "who are the directors of the movies acted by [Jay Baruchel]",
+            "Answer": [
+                "Michael Dowse",
+                "Evan Goldberg",
+                "Chaz Thorne",
+                "Jonathan Sobol",
+                "Dean DeBlois",
+                "Chris Sanders",
+                "Jon Turteltaub",
+                "Kyle Newman",
+                "David Ray",
+                "Zackary Adler",
+                "Jim Field Smith",
+                "Seth Rogen"
+            ]
+        }
+    ],
+    "director_to_movie_to_director": [
+        {
+            "Question": "the director [Pixote Hunt] co-directed movies with who",
+            "Answer": [
+                "Joe Johnston"
+            ]
+        }
+    ],
+    "director_to_movie_to_language": [
+        {
+            "Question": "the movies directed by [Claude Miller] were in which languages",
+            "Answer": [
+                "French"
+            ]
+        }
+    ],
+    "writer_to_movie_to_writer": [
+        {
+            "Question": "who are movie co-writers of [Blake T. Evans]",
+            "Answer": [
+                "David S. Ward",
+                "Phil Sears"
+            ]
+        }
+    ],
+    "director_to_movie_to_genre": [
+        {
+            "Question": "what are the genres of the movies directed by [Diablo Cody]",
+            "Answer": [
+                "Drama",
+                "Romance",
+                "Comedy",
+                "Adventure"
+            ]
+        }
+    ],
+    "movie_to_director_to_movie": [
+        {
+            "Question": "which films share the same director of [Sleeping Dogs Lie]",
+            "Answer": [
+                "World's Greatest Dad",
+                "God Bless America",
+                "Willow Creek",
+                "Shakes the Clown"
+            ]
+        }
+    ],
+    "actor_to_movie_to_year": [
+        {
+            "Question": "what were the release dates of [Charlotte Gainsbourg] acted films",
+            "Answer": [
+                "1993",
+                "2006",
+                "2005",
+                "2009",
+                "2011",
+                "2010",
+                "2012"
+            ]
+        }
+    ],
+    "writer_to_movie_to_genre": [
+        {
+            "Question": "the films written by [Deon Taylor] were in which genres",
+            "Answer": [
+                "Horror"
+            ]
+        }
+    ],
+    "movie_to_director_to_movie_to_language": [
+        {
+            "Question": "what languages are the movies that share directors with [Who's That Knocking at My Door] in",
+            "Answer": [
+                "Irish",
+                "Tibetan",
+                "Italian"
+            ]
+        }
+    ],
+    "movie_to_actor_to_movie_to_language": [
+        {
+            "Question": "the films that share actors with the film [Nickelodeon] were in which languages",
+            "Answer": [
+                "French",
+                "Spanish"
+            ]
+        }
+    ],
+    "movie_to_writer_to_movie_to_year": [
+        {
+            "Question": "when did the films written by [A Gathering of Old Men] writers release",
+            "Answer": [
+                "1999",
+                "1974"
+            ]
+        }
+    ],
+    "movie_to_director_to_movie_to_genre": [
+        {
+            "Question": "what genres are the movies directed by the [16 Blocks] director",
+            "Answer": [
+                "Horror",
+                "Drama",
+                "Fantasy",
+                "Adventure",
+                "Action",
+                "Comedy",
+                "Thriller"
+            ]
+        }
+    ],
+    "movie_to_writer_to_movie_to_director": [
+        {
+            "Question": "who are the directors of the films written by the writer of [Jailhouse Rock]",
+            "Answer": [
+                "David Butler",
+                "Marlon Brando",
+                "Harmon Jones",
+                "Stanley Kramer",
+                "John Frankenheimer",
+                "Martin Ritt"
+            ]
+        }
+    ],
+    "movie_to_writer_to_movie_to_genre": [
+        {
+            "Question": "the movies that share writers with the movie [Pocketful of Miracles] were in which genres",
+            "Answer": [
+                "Drama",
+                "Fantasy",
+                "Comedy",
+                "Musical"
+            ]
+        }
+    ]
+}

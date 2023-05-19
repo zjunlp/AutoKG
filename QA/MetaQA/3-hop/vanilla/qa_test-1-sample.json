@@ -1,0 +1,247 @@
+{
+    "movie_to_director_to_movie_to_language": [
+        {
+            "Question": "what languages are the movies that share directors with [Who's That Knocking at My Door] in",
+            "Answer": [
+                "Irish",
+                "Tibetan",
+                "Italian"
+            ]
+        }
+    ],
+    "movie_to_director_to_movie_to_actor": [
+        {
+            "Question": "who acted in the movies directed by the director of [Signs]",
+            "Answer": [
+                "Bryce Dallas Howard",
+                "Will Smith",
+                "Dana Delany",
+                "Samuel L. Jackson",
+                "Jackson Rathbone",
+                "Denis Leary",
+                "Bruce Willis",
+                "Jaden Smith",
+                "Nicola Peltz",
+                "Dev Patel",
+                "Haley Joel Osment",
+                "Joseph Cross",
+                "Noah Ringer",
+                "Paul Giamatti"
+            ]
+        }
+    ],
+    "movie_to_actor_to_movie_to_language": [
+        {
+            "Question": "the films that share actors with the film [Nickelodeon] were in which languages",
+            "Answer": [
+                "French",
+                "Spanish"
+            ]
+        }
+    ],
+    "movie_to_writer_to_movie_to_year": [
+        {
+            "Question": "when did the films written by [A Gathering of Old Men] writers release",
+            "Answer": [
+                "1999",
+                "1974"
+            ]
+        }
+    ],
+    "movie_to_actor_to_movie_to_director": [
+        {
+            "Question": "which person directed the films acted by the actors in [The Computer Wore Tennis Shoes]",
+            "Answer": [
+                "Cameron Crowe",
+                "Stuart Baird",
+                "Ted Berman",
+                "Ron Shelton",
+                "John Carpenter",
+                "Jonathan Sobol",
+                "Wolfgang Petersen",
+                "Roger Spottiswoode",
+                "Matthijs van Heijningen Jr.",
+                "Vincent McEveety",
+                "H. Bruce Humberstone",
+                "Jonathan Kaplan",
+                "Jonathan Demme",
+                "Henry King",
+                "Robert Zemeckis",
+                "Don Handfield",
+                "Kevin Jarre",
+                "Quentin Tarantino",
+                "Robert Aldrich",
+                "Robert Towne",
+                "Ron Howard",
+                "George P. Cosmatos",
+                "Edgar G. Ulmer",
+                "Jerry Jameson",
+                "Richard Rich",
+                "Robert Rodriguez",
+                "Thom Eberhardt",
+                "Roland Emmerich",
+                "Jonathan Mostow",
+                "Garry Marshall",
+                "Phillip Borsos",
+                "Mike Mitchell"
+            ]
+        }
+    ],
+    "movie_to_director_to_movie_to_genre": [
+        {
+            "Question": "what genres are the movies directed by the [16 Blocks] director",
+            "Answer": [
+                "Horror",
+                "Drama",
+                "Fantasy",
+                "Adventure",
+                "Action",
+                "Comedy",
+                "Thriller"
+            ]
+        }
+    ],
+    "movie_to_writer_to_movie_to_director": [
+        {
+            "Question": "who are the directors of the films written by the writer of [Jailhouse Rock]",
+            "Answer": [
+                "David Butler",
+                "Marlon Brando",
+                "Harmon Jones",
+                "Stanley Kramer",
+                "John Frankenheimer",
+                "Martin Ritt"
+            ]
+        }
+    ],
+    "movie_to_actor_to_movie_to_year": [
+        {
+            "Question": "what were the release years of the films that share actors with the film [Curious George]",
+            "Answer": [
+                "1999",
+                "1998",
+                "1945",
+                "2003",
+                "2007",
+                "2005",
+                "2015",
+                "2008",
+                "2009",
+                "2010",
+                "2012"
+            ]
+        }
+    ],
+    "movie_to_actor_to_movie_to_writer": [
+        {
+            "Question": "which person wrote the films acted by the actors in [Frost/Nixon]",
+            "Answer": [
+                "Vladimir Nabokov",
+                "Ross Thomas",
+                "Dennis Lee",
+                "John L. Balderston",
+                "Peter Morgan",
+                "Hamilton Deane",
+                "William H. Macy",
+                "Eleanor Perry",
+                "James Graham",
+                "A.J. Kparr",
+                "Robert Benton",
+                "Jack Higgins",
+                "David Newman",
+                "Gary Ross",
+                "Richard Matheson",
+                "Jeff Pope",
+                "Steven Schachter",
+                "Ralph Nelson",
+                "James Naughtie",
+                "Peter Lefcourt",
+                "Bram Stoker",
+                "Sue Kaufman",
+                "Mel Brooks",
+                "Richard Kelly"
+            ]
+        }
+    ],
+    "movie_to_actor_to_movie_to_genre": [
+        {
+            "Question": "what types are the films starred by actors in [Bitter Victory]",
+            "Answer": [
+                "Mystery",
+                "Drama",
+                "Horror",
+                "Crime",
+                "Romance",
+                "Fantasy",
+                "Adventure",
+                "Action",
+                "Comedy",
+                "War",
+                "Thriller",
+                "Western"
+            ]
+        }
+    ],
+    "movie_to_director_to_movie_to_writer": [
+        {
+            "Question": "which person wrote the movies directed by the director of [Rio]",
+            "Answer": [
+                "Michael J. Wilson",
+                "Carlos Saldanha",
+                "Don Rhymer"
+            ]
+        }
+    ],
+    "movie_to_writer_to_movie_to_genre": [
+        {
+            "Question": "the movies that share writers with the movie [Pocketful of Miracles] were in which genres",
+            "Answer": [
+                "Drama",
+                "Fantasy",
+                "Comedy",
+                "Musical"
+            ]
+        }
+    ],
+    "movie_to_writer_to_movie_to_actor": [
+        {
+            "Question": "who are the actors in the films written by the screenwriter of [Dark Journey]",
+            "Answer": [
+                "Ralph Richardson",
+                "Greer Garson",
+                "Binnie Barnes",
+                "Ronald Colman",
+                "Merle Oberon",
+                "Laurence Olivier",
+                "Susan Peters",
+                "Stewart Granger",
+                "Charles Laughton",
+                "Jean Simmons"
+            ]
+        }
+    ],
+    "movie_to_director_to_movie_to_year": [
+        {
+            "Question": "when did the films directed by the [Hollywood Canteen] director release",
+            "Answer": [
+                "1996",
+                "1943",
+                "1947",
+                "1963",
+                "1954",
+                "1956",
+                "1950",
+                "1959",
+                "1958"
+            ]
+        }
+    ],
+    "movie_to_writer_to_movie_to_language": [
+        {
+            "Question": "the movies that share writers with the movie [Jesse James] were in which languages",
+            "Answer": [
+                "Japanese"
+            ]
+        }
+    ]
+}

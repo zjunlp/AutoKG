@@ -87,7 +87,7 @@ python VINE_processor.py
 python VINE_prompts.py
 ```
 
-## 🤖AutoKG-main
+## 🤖AutoKG
 
 Our AutoKG code is based on [CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society]( https://github.com/lightaime/camel) , you can get more details through this link.
 

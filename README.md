@@ -26,8 +26,8 @@ The datasets that we used in our experiments are as follows:
   
   You can download the dataset from the above address, and you can also find the data used in this experiment directly from the corresponding ***"datas"*** folder like [DuIE2.0](https://github.com/zjunlp/AutoKG/tree/4edd8ad698a1ad3b90abb34d79f299d0e839a28c/KG%20Construction/DuIE2.0/datas).
 - KG Reasoning
-  - FB15k-237
-  - ATOMIC2020
+  - [FB15k-237](https://github.com/zjunlp/Relphormer/tree/main/dataset/fb15k-237)
+  - [ATOMIC2020](https://allenai.org/data/atomic-2020)
 - Question Answering
   - FreebaseQA
   - MetaQA
@@ -57,6 +57,14 @@ AutoKG
  |    |    |-- prompts                  #0-shot/1-shot prompts
  |    |    |-- scierc_processor.py      #preprocess data
  |    |    |-- scierc_prompts.py        #generate prompts
+ |-- KG Reasoning (Link Prediction)
+ |    |-- FB15k-237
+ |    |    |-- data                     #sample data
+ |    |    |-- prompts                  #0-shot/1-shot prompts
+ |    |-- ATOMIC2020
+ |    |    |-- data                     #sample data
+ |    |    |-- prompts                  #0-shot/1-shot prompts
+ |    |    |-- system_eval              #eval for ATOMIC2020
  
 ```
 

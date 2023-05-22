@@ -1,0 +1,4 @@
+bert-score
+tabulate
+nltk==3.5
+numpy

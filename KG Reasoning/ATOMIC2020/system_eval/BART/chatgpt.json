@@ -1,0 +1,23 @@
+{"head": "PersonX also saw ___", "relation": "isFilledBy", "tails": "birds", "generations": ["none"], "greedy": "none"}
+{"head": "wage war", "relation": "HasSubEvent", "tails": "cities destroyed", "generations": ["need to strategize and plan your actions carefully"], "greedy": "need to strategize and plan your actions carefully"}
+{"head": "PersonX goes from zero to hero", "relation": "xNeed", "tails": "assess a situation", "generations": ["need to strategize and plan your actions carefully"], "greedy": "need to strategize and plan your actions carefully"}
+{"head": "PersonX is walking on the beach", "relation": "xAttr", "tails": "alone", "generations": ["enjoying the view", "feeling the sand between their toes", "listening to the sound of the waves", "taking photos of the scenery", "looking for seashells"], "greedy": "enjoying the view"}
+{"head": "PersonX cuts open ___", "relation": "oEffect", "tails": "operated on", "generations": ["none"], "greedy": "none"}
+{"head": "PersonX becomes PersonY member", "relation": "xReact", "tails": "included", "generations": ["happy", "excited", "required", "hesitant", "cautious"], "greedy": "happy"}
+{"head": "kerosene", "relation": "ObjectUse", "tails": "become arsonist", "generations": ["fuel"], "greedy": "fuel"}
+{"head": "PersonX loves PersonX's dog", "relation": "xEffect", "tails": "he want get a dog", "generations": ["happiness", "joy"], "greedy": "happiness"}
+{"head": "PersonX stops kissing PersonY", "relation": "HinderedBy", "tails": "PersonY is crying out of control and PersonX is full of compassion.", "generations": ["they didn't feel uncomfortable or if they were not interrupted by an external factor such as a phone call or a sudden noise"], "greedy": "they didn't feel uncomfortable or if they were not interrupted by an external factor such as a phone call or a sudden noise"}
+{"head": "PersonX looks at PersonY like that", "relation": "isAfter", "tails": "PersonX is on a date with PersonY", "generations": ["talked to them", "smiled at them", "hugged them", "kissed them"], "greedy": "talked to them"}
+{"head": "PersonX quickly fell in love", "relation": "oReact", "tails": "happy.", "generations": ["happy for them"], "greedy": "happy for them"}
+{"head": "PersonX loves PersonX's work", "relation": "xIntent", "tails": "none", "generations": [" show appreciation"], "greedy": " show appreciation"}
+{"head": "PersonX takes PersonY everywhere", "relation": "xWant", "tails": "refill up with gas", "generations": ["spend more time with them"], "greedy": "spend more time with them"}
+{"head": "PersonX gets close to PersonY", "relation": "oWant", "tails": "to bond with x", "generations": ["get closer to PersonX and PersonY"], "greedy": "get closer to PersonX and PersonY"}
+{"head": "jellyfish", "relation": "AtLocation", "tails": "potato sout", "generations": ["the ocean", "the sea"], "greedy": "the ocean"}
+{"head": "PersonX makes PersonY's laugh", "relation": "isBefore", "tails": "PersonX gets a drink for PersonY", "generations": ["leaves the room", "tells a joke", "receives a phone call", "apologizes for something", "continues the conversation"], "greedy": "leaves the room"}
+{"head": "mouse", "relation": "MadeUpOf", "tails": "mouse button", "generations": ["cells"], "greedy": "cells"}
+{"head": "stallion", "relation": "CapableOf", "tails": "service mare", "generations": ["run fast"], "greedy": "run fast"}
+{"head": "sand", "relation": "HasProperty", "tails": "white", "generations": ["gritty"], "greedy": "gritty"}
+{"head": "gardener", "relation": "NotDesires", "tails": "plants to die", "generations": ["weeds", "pests", "to use harmful chemicals", "to work on weekends"], "greedy": "weeds"}
+{"head": "hot weather", "relation": "Causes", "tails": "fainting", "generations": ["dehydration", "heat exhaustion", "air pollution"], "greedy": "dehydration"}
+{"head": "stay in bed", "relation": "xReason", "tails": "of cold", "generations": ["they were feeling ill", "they wanted to get some rest", "it was a lazy Sunday morning"], "greedy": "they were feeling ill"}
+{"head": "hen", "relation": "Desires", "tails": "bread crumbs", "generations": ["a comfortable nesting area", "fresh grains and vegetables", "to flee or hide"], "greedy": "a comfortable nesting area"}

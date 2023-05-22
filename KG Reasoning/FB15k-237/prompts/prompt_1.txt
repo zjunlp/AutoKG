@@ -1,0 +1,68 @@
+predict the tail entity [MASK] from the given (Yemen-US, military military combatant military conflicts. military military combatant group combatants, [MASK]) by completing the sentence "what is the combatants of Yemen-US? The answer is ".The answer is Saudi Arabia, so the [MASK] is Saudi Arabia.
+predict the tail entity [MASK] from the given (China, military military combatant military conflicts. military military combatant group combatants, [MASK]) by completing the sentence "what is the combatants of China? The answer is".
+
+predict the tail entity [MASK] from the given (Harry Potter and the Chamber of Secrets, film film distributors. film film film distributor relationship film distribution medium, [MASK]) by completing the sentence "what is the film distribution medium of Harry Potter and the Chamber of Secrets? The answer is ".The answer is VHS, so the [MASK] is VHS.
+predict the tail entity [MASK] from the given (Babylon 5: The Gathering, film film distributors. film film film distributor relationship film distribution medium, [MASK]) by completing the sentence "what is the film distribution medium of Babylon 5: The Gathering? The answer is".
+
+predict the tail entity [MASK] from the given (Research Associate, people profession specialization of, [MASK]) by completing the sentence "what is the specialization of of Research Associate? The answer is ".The answer is Architecture, so the [MASK] is Architecture.
+predict the tail entity [MASK] from the given (Consultant, people profession specialization of, [MASK]) by completing the sentence "what is the specialization of of Consultant? The answer is".
+
+predict the tail entity [MASK] from the given (University of Southern California, award ranked item appears in ranked lists. award ranking list, [MASK]) by completing the sentence "what is the list of University of Southern California? The answer is ".The answer is Times Higher Education World University Rankings, so the [MASK] is Times Higher Education World University Rankings.
+predict the tail entity [MASK] from the given (Berkshire Hathaway, award ranked item appears in ranked lists. award ranking list, [MASK]) by completing the sentence "what is the list of Berkshire Hathaway? The answer is".
+
+predict the tail entity [MASK] from the given (Vanilla Sky, film film release date s. film film regional release date film release distribution medium, [MASK]) by completing the sentence "what is the film release distribution medium of Vanilla Sky? The answer is ".The answer is DVD, so the [MASK] is DVD.
+predict the tail entity [MASK] from the given (Jackass: The Movie, film film release date s. film film regional release date film release distribution medium, [MASK]) by completing the sentence "what is the film release distribution medium of Jackass: The Movie? The answer is".
+
+predict the tail entity [MASK] from the given (Managing Director-GB, business job title people with this title. business employment tenure company, [MASK]) by completing the sentence "what is the company of Managing Director-GB? The answer is ".The answer is Marriott International, so the [MASK] is Marriott International.
+predict the tail entity [MASK] from the given (Vice President-GB, business job title people with this title. business employment tenure company, [MASK]) by completing the sentence "what is the company of Vice President-GB? The answer is".
+
+predict the tail entity [MASK] from the given (John Adams, tv tv program languages, [MASK]) by completing the sentence "what is the languages of John Adams? The answer is ".The answer is English Language, so the [MASK] is English Language.
+predict the tail entity [MASK] from the given (Angel, tv tv program languages, [MASK]) by completing the sentence "what is the languages of Angel? The answer is".
+
+predict the tail entity [MASK] from the given (Dave Grohl, music group member membership. music group membership group, [MASK]) by completing the sentence "what is the group of Dave Grohl? The answer is ".The answer is Queens of the Stone Age, so the [MASK] is Queens of the Stone Age.
+predict the tail entity [MASK] from the given (Stevie Wonder, music group member membership. music group membership group, [MASK]) by completing the sentence "what is the group of Stevie Wonder? The answer is".
+
+predict the tail entity [MASK] from the given (Academy Award for Best Film Editing, award award category category of, [MASK]) by completing the sentence "what is the category of of Academy Award for Best Film Editing? The answer is ".The answer is Academy Awards, so the [MASK] is Academy Awards.
+predict the tail entity [MASK] from the given (Primetime Emmy Award for Outstanding Guest Actress - Comedy Series, award award category category of, [MASK]) by completing the sentence "what is the category of of Primetime Emmy Award for Outstanding Guest Actress - Comedy Series? The answer is".
+
+predict the tail entity [MASK] from the given (Billy Crystal, film actor dubbing performances. film dubbing performance language, [MASK]) by completing the sentence "what is the language of Billy Crystal? The answer is ".The answer is English Language, so the [MASK] is English Language.
+predict the tail entity [MASK] from the given (Brian Drummond, film actor dubbing performances. film dubbing performance language, [MASK]) by completing the sentence "what is the language of Brian Drummond? The answer is".
+
+predict the tail entity [MASK] from the given (Guest host, tv non character role tv regular personal appearances. tv tv regular personal appearance person, [MASK]) by completing the sentence "what is the person of Guest host? The answer is ".The answer is Bill Cosby, so the [MASK] is Bill Cosby.
+predict the tail entity [MASK] from the given (Musician-GB, tv non character role tv regular personal appearances. tv tv regular personal appearance person, [MASK]) by completing the sentence "what is the person of Musician-GB? The answer is".
+
+predict the tail entity [MASK] from the given (Twin Peaks, tv tv program genre, [MASK]) by completing the sentence "what is the genre of Twin Peaks? The answer is ".The answer is Cult film, so the [MASK] is Cult film
+predict the tail entity [MASK] from the given (House, tv tv program genre, [MASK]) by completing the sentence "what is the genre of House? The answer is".
+
+predict the tail entity [MASK] from the given (1992 NCAA Men's Division I Basketball Tournament, time event locations, [MASK]) by completing the sentence "what is the locations of 1992 NCAA Men's Division I Basketball Tournament? The answer is ".The answer is Albuquerque, so the [MASK] is Albuquerque.
+predict the tail entity [MASK] from the given (40th Academy Awards, time event locations, [MASK]) by completing the sentence "what is the locations of 40th Academy Awards? The answer is".
+
+predict the tail entity [MASK] from the given (Chaplin, film film produced by, [MASK]) by completing the sentence "what is the produced by of Chaplin? The answer is ".The answer is Mario Kassar, so the [MASK] is Mario Kassar.
+predict the tail entity [MASK] from the given (The Tourist, film film produced by, [MASK]) by completing the sentence "what is the produced by of The Tourist? The answer is".
+
+predict the tail entity [MASK] from the given (Saudi Arabia, base aareas schema administrative area administrative area type, [MASK]) by completing the sentence "what is the administrative area type of Saudi Arabia? The answer is ".The answer is Sovereign state, so the [MASK] is Sovereign state.
+predict the tail entity [MASK] from the given (South Sudan, base areas schema administrative area administrative area type, [MASK]) by completing the sentence "what is the administrative area type of South Sudan? The answer is".
+
+predict the tail entity [MASK] from the given (Midfielder, sports sports position players. sports sports team roster team, [MASK]) by completing the sentence "what is the team of Midfielder? The answer is ".The answer is Clube de Regatas do Flamengo, so the [MASK] is Clube de Regatas do Flamengo.
+predict the tail entity [MASK] from the given (Outfielder, sports sports position players. sports sports team roster team, [MASK]) by completing the sentence "what is the team of Outfielder? The answer is".
+
+predict the tail entity [MASK] from the given (United States of America, olympics olympic participating country medals won. olympics olympic medal honor olympics, [MASK]) by completing the sentence "what is the olympics of United States of America? The answer is ".The answer is 2008 Summer Olympics, so the [MASK] is 2008 Summer Olympics.
+predict the tail entity [MASK] from the given (Switzerland, olympics olympic participating country medals won. olympics olympic medal honor olympics, [MASK]) by completing the sentence "what is the olympics of Switzerland? The answer is".
+
+predict the tail entity [MASK] from the given (Bill Clinton, government politician government positions held. government government position held basic title, [MASK]) by completing the sentence "what is the basic title of Bill Clinton? The answer is ".The answer is Governor-GB, so the [MASK] is Governor-GB.
+predict the tail entity [MASK] from the given (Andrew Jackson, government politician government positions held. government government position held basic title, [MASK]) by completing the sentence "what is the basic title of Andrew Jackson? The answer is".
+
+predict the tail entity [MASK] from the given (Economics, education field of study students majoring. education education major field of study, [MASK]) by completing the sentence "what is the major field of study of Economics? The answer is ".The answer is Computer Science, so the [MASK] is Computer Science.
+predict the tail entity [MASK] from the given (Photography, education field of study students majoring. education education major field of study, [MASK]) by completing the sentence "what is the major field of study of Photography? The answer is".
+
+predict the tail entity [MASK] from the given (The Aviator, film film costume design by, [MASK]) by completing the sentence "what is the costume design by of The Aviator? The answer is ".The answer is Sandy Powell, so the [MASK] is Sandy Powell.
+predict the tail entity [MASK] from the given (The Dark Knight Rises, film film costume design by, [MASK]) by completing the sentence "what is the costume design by of The Dark Knight Rises? The answer is".
+
+predict the tail entity [MASK] from the given (Tambourine, music performance role regular performances. music group membership role, [MASK]) by completing the sentence "what is the role of Tambourine? The answer is ".The answer is Fiddle, so the [MASK] is Fiddle.
+predict the tail entity [MASK] from the given (Vibraphone, music performance role regular performances. music group membership role, [MASK]) by completing the sentence "what is the role of Vibraphone? The answer is".
+
+predict the tail entity [MASK] from the given (The Pianist, award award winning work awards won. award1st Marquess Cornwallis award honor award, [MASK]) by completing the sentence "what is the award of The Pianist? The answer is ".The answer is Japan Academy Prize for Outstanding Foreign Language Film, so the [MASK] is Japan Academy Prize for Outstanding Foreign Language Film.
+predict the tail entity [MASK] from the given (Four Weddings and a Funeral, award award winning work awards won. award award honor award, [MASK]) by completing the sentence "what is the award of Four Weddings and a Funeral? The answer is".
+
+predict the tail entity [MASK] from the given (Sex and the City, tv tv program country of origin, [MASK]) by completing the sentence "what is the country of origin of Sex and the City? The answer is ".The answer is United States of America, so the [MASK] is United States of America.
+predict the tail entity [MASK] from the given (Saturday Night's Main Event, tv tv program country of origin, [MASK]) by completing the sentence "what is the country of origin of Saturday Night's Main Event? The answer is".

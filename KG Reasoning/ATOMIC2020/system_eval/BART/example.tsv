@@ -1,0 +1,23 @@
+PersonX also saw ___	isFilledBy	birds    none
+wage war	HasSubEvent	cities destroyed    none
+PersonX goes from zero to hero	xNeed	assess a situation    put in hard work and dedication to achieve their goals.
+PersonX is walking on the beach	xAttr	alone    enjoying the scenery and the peaceful atmosphere.
+PersonX cuts open ___	oEffect	operated on     unclear
+PersonX becomes PersonY member	xReact	included    happy and possibly eager to participate in activities or events associated with the membership.
+kerosene	ObjectUse	become arsonist    fueling lamps, stoves, and heaters.
+PersonX loves PersonX's dog	xEffect	he want get a dog    feeling happy and fulfilled,having a stronger bond with their pet.
+PersonX stops kissing PersonY	HinderedBy	PersonY is crying out of control and PersonX is full of compassion.     they both wanted to continue
+PersonX looks at PersonY like that	isAfter	PersonX is on a date with PersonY     unknown
+PersonX quickly fell in love	oReact	happy.    happy
+PersonX loves PersonX's work	xIntent	none     to feel fulfilled and accomplished.
+PersonX takes PersonY everywhere	xWant	refill up with gas    spend some quality time with PersonY.
+PersonX gets close to PersonY	oWant	to bond with x    get to know PersonY better.
+jellyfish	AtLocation	potato sout    the ocean, sea.
+PersonX makes PersonY's laugh	isBefore	PersonX gets a drink for PersonY    feels happy ,satisfied.
+mouse	MadeUpOf	mouse button    cells ,organs.
+stallion	CapableOf	service mare    mate with multiple mares,run very fast 
+sand	HasProperty	white    gritty , granular.
+gardener	NotDesires	plants to die    to see their plants die or wither.
+hot weather	Causes	fainting    dehydration , sweating.
+stay in bed	xReason	of cold    they were feeling unwell or tired.
+hen	Desires	bread crumbs    to lay eggs ,to find a safe place to roost.

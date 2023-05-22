@@ -1,0 +1,49 @@
+predict the tail entity [MASK] from the given (PersonX puts the ___ away, isFilledBy, [MASK]) by completing the sentence "PersonX puts the [MASK] away. [MASK] is filled by".The answer is wine.
+predict the tail entity [MASK] from the given (PersonX also saw ___, isFilledBy, [MASK]) by completing the sentence "PersonX also saw [MASK]. [MASK] is filled by".The answer is
+predict the tail entity [MASK] from the given (celebrate, HasSubEvent, [MASK]) by completing the sentence "While celebrate，you would".The answer is throw party.
+predict the tail entity [MASK] from the given (wage war, HasSubEvent, [MASK]) by completing the sentence "While wage war，you would".The answer is
+predict the tail entity [MASK] from the given (PersonX plants ___ in PersonX's backyard, xNeed, [MASK]) by completing the sentence "PersonX plants ___ in PersonX's backyard. Before, PersonX needs to ".The answer is to dig the holes.
+predict the tail entity [MASK] from the given (PersonX goes from zero to hero, xNeed, [MASK]) by completing the sentence "PersonX goes from zero to hero. Before, PersonX needs to ".The answer is
+"PersonX throws the ___ into confusion xAttr convincing
+predict the tail entity [MASK] from the given (PersonX throws the ___ into confusion, xAttr, [MASK]) by completing the sentence "PersonX throws the ___ into confusion. PersonX is ".The answer is convincing.
+predict the tail entity [MASK] from the given (PersonX is walking on the beach, xAttr, [MASK]) by completing the sentence "PersonX is walking on the beach. PersonX is ".The answer is
+predict the tail entity [MASK] from the given (PersonX serves PersonY's purpose, oEffect, [MASK]) by completing the sentence "PersonX serves PersonY's purpose . The effect on PersonY will be ".The answer is none.
+predict the tail entity [MASK] from the given (PersonX cuts open ___, oEffect, [MASK]) by completing the sentence "PersonX cuts open . The effect on PersonY will be ".The answer is
+predict the tail entity [MASK] from the given (PersonX uploads the video, xReact, [MASK]) by completing the sentence "PersonX uploads the video. PersonX will be ".The answer is excited.
+predict the tail entity [MASK] from the given (PersonX becomes PersonY member, xReact, [MASK]) by completing the sentence "PersonX becomes PersonY member. PersonX will be ".The answer is
+predict the tail entity [MASK] from the given (gas, ObjectUse, [MASK]) by completing the sentence "gas can be used for ".The answer is put in the car.
+predict the tail entity [MASK] from the given (kerosene, ObjectUse, [MASK]) by completing the sentence "Kerosene can be used for ".The answer is
+predict the tail entity [MASK] from the given (PersonX runs every ___, xEffect, [MASK]) by completing the sentence "PersonX runs every ___. The effect on PersonX will be".The answer is gets tired.
+predict the tail entity [MASK] from the given (PersonX loves PersonX's dog, xEffect, [MASK]) by completing the sentence "PersonX loves PersonX's dog. The effect on PersonX will be".The answer is
+"PersonX never paid HinderedBy PersonX's roommate said they need to pay or get out.
+predict the tail entity [MASK] from the given (PersonX never paid, HinderedBy, [MASK]) by completing the sentence "PersonX never paid, which would not happen if ".The answer is PersonX's roommate said they need to pay or get out..
+predict the tail entity [MASK] from the given (PersonX stops kissing PersonY, HinderedBy, [MASK]) by completing the sentence "PersonX stops kissing PersonY, which would not happen if ".The answer is
+"PersonX redoes PersonY's kitchen isAfter PersonX went to PersonY's house
+predict the tail entity [MASK] from the given (PersonX redoes PersonY's kitchen, isAfter, [MASK]) by completing the sentence "PersonX redoes PersonY's kitchen. Before that, PersonX".The answer is PersonX went to PersonY's house.
+predict the tail entity [MASK] from the given (PersonX looks at PersonY like that, isAfter, [MASK]) by completing the sentence "PersonX looks at PersonY like that. Before that, PersonX".The answer is
+predict the tail entity [MASK] from the given (PersonX takes ___ on vacation, oReact, [MASK]) by completing the sentence "PersonX takes ___ on vacation. As a result, others feel".The answer is excited.
+predict the tail entity [MASK] from the given (PersonX quickly fell in love, oReact, [MASK]) by completing the sentence "PersonX quickly fell in love. As a result, others feel".The answer is
+predict the tail entity [MASK] from the given (PersonX throws ___ out the window, xIntent, [MASK]) by completing the sentence "PersonX throws ___ out the window. PersonX did this to".The answer is to have peace.
+predict the tail entity [MASK] from the given (PersonX loves PersonX's work, xIntent, [MASK]) by completing the sentence "PersonX loves PersonX's work. PersonX did this to".The answer is
+predict the tail entity [MASK] from the given (PersonX bears the ___ longer, xWant, [MASK]) by completing the sentence "PersonX bears the ___ longer. After, PersonX will want to ".The answer is to eat some chocolate.
+predict the tail entity [MASK] from the given (PersonX takes PersonY everywhere, xWant, [MASK]) by completing the sentence "PersonX takes PersonY everywhere. After, PersonX will want to ".The answer is
+predict the tail entity [MASK] from the given (PersonX always put ___, oWant, [MASK]) by completing the sentence "PersonX always put ___. After, others will want to".The answer is none.
+predict the tail entity [MASK] from the given (PersonX gets close to PersonY, oWant, [MASK]) by completing the sentence "PersonX gets close to PersonY. After, others will want to".The answer is
+predict the tail entity [MASK] from the given (omega, AtLocation, [MASK]) by completing the sentence "You are likely to find jellyfish in".The answer is united states.
+predict the tail entity [MASK] from the given (jellyfish, AtLocation, [MASK]) by completing the sentence "You are likely to find jellyfish in".The answer is
+predict the tail entity [MASK] from the given (PersonX decides to pull over, isBefore, [MASK]) by completing the sentence "PersonX decides to pull over. After that, PersonX ".The answer is PersonX goes in the store.
+predict the tail entity [MASK] from the given (PersonX makes PersonY's laugh, isBefore, [MASK]) by completing the sentence "PersonX makes PersonY's laugh. After that, PersonX ".The answer is
+predict the tail entity [MASK] from the given (everything, MadeUpOf, [MASK]) by completing the sentence "everything contains".The answer is matter.
+predict the tail entity [MASK] from the given (mouse, MadeUpOf, [MASK]) by completing the sentence "A mouse contains".The answer is
+predict the tail entity [MASK] from the given (fisherman, CapableOf, [MASK]) by completing the sentence "fisherman can".The answer is land fish.
+predict the tail entity [MASK] from the given (stallion, CapableOf, [MASK]) by completing the sentence "Stallion can".The answer is
+predict the tail entity [MASK] from the given (text, HasProperty, [MASK]) by completing the sentence "text is".The answer is read.
+predict the tail entity [MASK] from the given (sand, HasProperty, [MASK]) by completing the sentence "Sand is".The answer is
+predict the tail entity [MASK] from the given (person, NotDesires, [MASK]) by completing the sentence "person does not desire".The answer is losy car keys.
+predict the tail entity [MASK] from the given (gardener, NotDesires, [MASK]) by completing the sentence "gardener does not desire".The answer is
+predict the tail entity [MASK] from the given (subject, Causes, [MASK]) by completing the sentence "subject".The answer is experience.
+predict the tail entity [MASK] from the given (hot weather, Causes, [MASK]) by completing the sentence "Hot weather Causes".The answer is"
+predict the tail entity [MASK] from the given (die, xReason, [MASK]) by completing the sentence "die because".The answer is of disease.
+predict the tail entity [MASK] from the given (stay in bed, xReason, [MASK]) by completing the sentence "PersonX did stay in bed because".The answer is
+predict the tail entity [MASK] from the given (person, Desires, [MASK]) by completing the sentence "person desires".The answer is make connections between images.
+predict the tail entity [MASK] from the given (hen, Desires, [MASK]) by completing the sentence "hen desires".The answer is

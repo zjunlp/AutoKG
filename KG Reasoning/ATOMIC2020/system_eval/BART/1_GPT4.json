@@ -1,0 +1,23 @@
+{"head": "PersonX also saw ___", "relation": "isFilledBy", "tails": "birds", "generations": ["wine"], "greedy": "wine"}
+{"head": "wage war", "relation": "HasSubEvent", "tails": "cities destroyed", "generations": ["engage in battles"], "greedy": "engage in battles"}
+{"head": "PersonX goes from zero to hero", "relation": "xNeed", "tails": "assess a situation", "generations": ["train and overcome challenges"], "greedy": "train and overcome challenges"}
+{"head": "PersonX is walking on the beach", "relation": "xAttr", "tails": "alone", "generations": ["relaxed"], "greedy": "relaxed"}
+{"head": "PersonX cuts open ___", "relation": "oEffect", "tails": "operated on", "generations": [" getting access to the contents"], "greedy": " getting access to the contents"}
+{"head": "PersonX becomes PersonY member", "relation": "xReact", "tails": "included", "generations": ["proud"], "greedy": "proud"}
+{"head": "kerosene", "relation": "ObjectUse", "tails": "become arsonist", "generations": ["fueling lamps and heaters"], "greedy": "fueling lamps and heaters"}
+{"head": "PersonX loves PersonX's dog", "relation": "xEffect", "tails": "he want get a dog", "generations": ["happiness and companionship"], "greedy": "happiness and companionship"}
+{"head": "PersonX stops kissing PersonY", "relation": "HinderedBy", "tails": "PersonY is crying out of control and PersonX is full of compassion.", "generations": ["they felt comfortable and attracted to each other."], "greedy": "they felt comfortable and attracted to each other."}
+{"head": "PersonX looks at PersonY like that", "relation": "isAfter", "tails": "PersonX is on a date with PersonY", "generations": [" PersonX had a conversation with PersonY."], "greedy": " PersonX had a conversation with PersonY."}
+{"head": "PersonX quickly fell in love", "relation": "oReact", "tails": "happy.", "generations": ["happy"], "greedy": "happy"}
+{"head": "PersonX loves PersonX's work", "relation": "xIntent", "tails": "none", "generations": [" show appreciation."], "greedy": " show appreciation."}
+{"head": "PersonX takes PersonY everywhere", "relation": "xWant", "tails": "refill up with gas", "generations": ["rest and relax."], "greedy": "rest and relax."}
+{"head": "PersonX gets close to PersonY", "relation": "oWant", "tails": "to bond with x", "generations": ["get to know PersonX better."], "greedy": "get to know PersonX better."}
+{"head": "jellyfish", "relation": "AtLocation", "tails": "potato sout", "generations": ["ocean waters."], "greedy": "ocean waters."}
+{"head": "PersonX makes PersonY's laugh", "relation": "isBefore", "tails": "PersonX gets a drink for PersonY", "generations": ["continues talking to PersonY"], "greedy": "continues talking to PersonY"}
+{"head": "mouse", "relation": "MadeUpOf", "tails": "mouse button", "generations": ["cells and tissues."], "greedy": "cells and tissues."}
+{"head": "stallion", "relation": "CapableOf", "tails": "service mare", "generations": ["run fast."], "greedy": "run fast."}
+{"head": "sand", "relation": "HasProperty", "tails": "white", "generations": ["grainy."], "greedy": "grainy."}
+{"head": "gardener", "relation": "NotDesires", "tails": "plants to die", "generations": ["plant diseases."], "greedy": "plant diseases."}
+{"head": "hot weather", "relation": "Causes", "tails": "fainting", "generations": ["sweating"], "greedy": "sweating"}
+{"head": "stay in bed", "relation": "xReason", "tails": "of cold", "generations": ["they were sick."], "greedy": "they were sick."}
+{"head": "hen", "relation": "Desires", "tails": "bread crumbs", "generations": ["to lay eggs."], "greedy": "to lay eggs."}

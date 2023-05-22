@@ -1,0 +1,23 @@
+PersonX also saw ___	isFilledBy	birds
+wage war	HasSubEvent	cities destroyed
+PersonX goes from zero to hero	xNeed	assess a situation
+PersonX is walking on the beach	xAttr	alone
+PersonX cuts open ___	oEffect	operated on
+PersonX becomes PersonY member	xReact	included
+kerosene	ObjectUse	become arsonist
+PersonX loves PersonX's dog	xEffect	he want get a dog
+PersonX stops kissing PersonY	HinderedBy	PersonY is crying out of control and PersonX is full of compassion.
+PersonX looks at PersonY like that	isAfter	PersonX is on a date with PersonY
+PersonX quickly fell in love	oReact	happy.
+PersonX loves PersonX's work	xIntent	none
+PersonX takes PersonY everywhere	xWant	refill up with gas
+PersonX gets close to PersonY	oWant	to bond with x
+jellyfish	AtLocation	potato sout
+PersonX makes PersonY's laugh	isBefore	PersonX gets a drink for PersonY
+mouse	MadeUpOf	mouse button
+stallion	CapableOf	service mare
+sand	HasProperty	white
+gardener	NotDesires	plants to die
+hot weather	Causes	fainting
+stay in bed	xReason	of cold
+hen	Desires	bread crumbs

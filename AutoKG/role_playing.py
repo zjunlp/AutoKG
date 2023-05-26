@@ -4,7 +4,7 @@ import openai
 from camel.agents import RolePlaying
 from camel.utils import print_text_animated
 
-openai.api_key="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"
+openai.api_key="your api key"
 os.environ["https_proxy"] = "http://127.0.0.1:7890"
 def main() -> None:
     task_prompt = "Construct and complete the Knowledge Graph of the following passage. " \

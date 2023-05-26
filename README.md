@@ -108,3 +108,15 @@ cd AutoKG
 python role_playing.py
 ```
 
+# Citation
+If you use the code or data, please cite the following paper:
+
+
+```bibtex
+@article{zhu2023llms,
+  title={LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities},
+  author={Zhu, Yuqi and Wang, Xiaohan and Chen, Jing and Qiao, Shuofei and Ou, Yixin and Yao, Yunzhi and Deng, Shumin and Chen, Huajun and Zhang, Ningyu},
+  journal={arXiv preprint arXiv:2305.13168},
+  year={2023}
+}
+```

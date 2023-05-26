@@ -104,7 +104,7 @@ Our AutoKG code is based on [CAMEL: Communicative Agents for “Mind” Explorat
 Run the `role_playing.py` script.
 
 ```bash
-cd AutoKG-main
+cd AutoKG
 python role_playing.py
 ```
 

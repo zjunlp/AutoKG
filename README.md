@@ -7,9 +7,9 @@ Code and Data for the paper "[LLMs for Knowledge Graph Construction and Reasonin
 
 ## 🌄Overview
 
-<div align=center><img src="figs/overview.png" alt="Overview"  width="700px" /></div>
+<div align=center><img src="figs/overview_f.jpg" alt="Overview"  width="700px" /></div>
 
-The overview of our work. There are three main components: 1) ***Basic Evaluation***: detailing our assessment of large models(text-davinci-003, ChatGPT, and GPT-4), in both zero-shot and one-shot settings, using performance data from fully supervised state-of-the-art models as benchmarks; 2) ***Virtual Knowledge Extraction***: an examination of large models' virtual knowledge capabilities on the constructed VINE dataset; and 3) ***AutoKG***: the proposal of utilizing multiple agents to facilitate the construction and reasoning of knowledge graphs.
+The overview of our work. There are three main components: 1) ***Basic Evaluation***: detailing our assessment of large models (text-davinci-003, ChatGPT, and GPT-4), in both zero-shot and one-shot settings, using performance data from fully supervised state-of-the-art models as benchmarks; 2) ***Virtual Knowledge Extraction***: an examination of large models' virtual knowledge capabilities on the constructed VINE dataset; and 3) ***Automatic KG***: the proposal of utilizing multiple agents to facilitate the construction and reasoning of KGs.
 
 ## 🌟 Evaluation 
 
@@ -97,15 +97,16 @@ python VINE_prompts.py
 
 ## 🤖AutoKG
 
-Our AutoKG code is based on [CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society]( https://github.com/lightaime/camel) , you can get more details through this link.
+Our AutoKG code is based on [CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society]( https://github.com/lightaime/camel) and a [LangChain](https://python.langchain.com/docs/use_cases/agents/camel_role_playing) implementation of the paper, you can get more details through this link.
 
-- Change the  OPENAI_API_KEY in `role_playing.py`
+- Change the  OPENAI_API_KEY in `Autokg.py`
+- Change the  SERPAPI_API_KEY in `RE_CAMEL.py` .( You can find details in [serpapi](https://python.langchain.com/docs/ecosystem/integrations/serpapi) )
 
-Run the `role_playing.py` script.
+Run the `Autokg.py` script.
 
 ```bash
 cd AutoKG
-python role_playing.py
+python Autokg.py
 ```
 
 # Citation

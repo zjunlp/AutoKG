@@ -7,7 +7,7 @@ Code and Data for the paper "[LLMs for Knowledge Graph Construction and Reasonin
 
 ## 🌄Overview
 
-<div align=center><img src="figs/overview_f.jpg" alt="Overview"  width="700px" /></div>
+<div align=center><img src="figs/overall_f.jpg" alt="Overview"  width="700px" /></div>
 
 The overview of our work. There are three main components: 1) ***Basic Evaluation***: detailing our assessment of large models (text-davinci-003, ChatGPT, and GPT-4), in both zero-shot and one-shot settings, using performance data from fully supervised state-of-the-art models as benchmarks; 2) ***Virtual Knowledge Extraction***: an examination of large models' virtual knowledge capabilities on the constructed VINE dataset; and 3) ***Automatic KG***: the proposal of utilizing multiple agents to facilitate the construction and reasoning of KGs.
 

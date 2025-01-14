@@ -100,7 +100,7 @@ python VINE_prompts.py
 
 ## 🤖AutoKG
 
-Our AutoKG code is based on [CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society]( https://github.com/lightaime/camel) and a [LangChain](https://python.langchain.com/docs/use_cases/agents/camel_role_playing) implementation of the paper, you can get more details through this link.
+Our AutoKG code is based on [CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society]( https://github.com/lightaime/camel) and a [LangChain](https://python.langchain.com.cn/docs/use_cases/agent_simulations/camel_role_playing) implementation of the paper, you can get more details through this link.
 
 - Change the  OPENAI_API_KEY in `Autokg.py`
 - Change the  SERPAPI_API_KEY in `RE_CAMEL.py` .( You can get more information in [serpapi](https://python.langchain.com/docs/ecosystem/integrations/serpapi) )
